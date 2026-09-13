@@ -1,0 +1,951 @@
+ticket_id,created_at,customer_id,priority,channel,resolution_time_hours,first_contact_resolution,status,csat_score,category
+TKT-2026040001,2026-04-01 08:45:00,CUST-2727,Low,Mobile App,11.0,Yes,Closed,4,Billing & Payment
+TKT-2026040002,2026-04-01 09:30:00,CUST-8770,Urgent,Email,26.8,Yes,Closed,4,Account Management
+TKT-2026040003,2026-04-01 09:45:00,CUST-7331,Medium,Mobile App,5.0,Yes,Closed,5,Account Management
+TKT-2026040004,2026-04-01 10:30:00,CUST-1226,Medium,Web Portal,6.2,Yes,Closed,4,Network Outage
+TKT-2026040005,2026-04-01 10:45:00,CUST-8218,Low,Mobile App,23.6,Yes,Closed,5,General Inquiry
+TKT-2026040006,2026-04-01 11:15:00,CUST-3733,High,Email,11.8,Yes,Closed,5,Billing & Payment
+TKT-2026040007,2026-04-01 11:15:00,CUST-1988,Medium,Email,5.3,Yes,Escalated,5,Technical Support
+TKT-2026040008,2026-04-01 11:30:00,CUST-2471,Medium,Email,7.6,Yes,Closed,5,Billing & Payment
+TKT-2026040009,2026-04-01 12:45:00,CUST-6708,Urgent,Mobile App,6.4,Yes,Closed,5,Network Outage
+TKT-2026040010,2026-04-01 13:30:00,CUST-9809,Medium,Web Portal,5.8,Yes,Closed,3,General Inquiry
+TKT-2026040011,2026-04-01 13:45:00,CUST-4185,Medium,Email,32.0,No,Closed,1,Account Management
+TKT-2026040012,2026-04-01 14:00:00,CUST-7646,Medium,Web Portal,28.0,No,Closed,3,Account Management
+TKT-2026040013,2026-04-01 14:00:00,CUST-5808,Medium,Web Portal,33.9,Yes,Closed,4,Technical Support
+TKT-2026040014,2026-04-01 14:15:00,CUST-3725,Low,Email,25.9,Yes,Closed,5,Billing & Payment
+TKT-2026040015,2026-04-01 16:00:00,CUST-7428,Medium,Email,6.4,Yes,In Progress,4,Billing & Payment
+TKT-2026040016,2026-04-01 16:45:00,CUST-8904,Medium,Web Portal,6.3,Yes,Closed,5,Billing & Payment
+TKT-2026040017,2026-04-01 18:45:00,CUST-7520,Low,Email,32.6,Yes,Closed,3,Network Outage
+TKT-2026040018,2026-04-01 19:00:00,CUST-3261,Low,Web Portal,15.1,Yes,Escalated,4,Technical Support
+TKT-2026040019,2026-04-01 20:00:00,CUST-7039,Medium,Email,34.4,Yes,Closed,5,Billing & Payment
+TKT-2026040020,2026-04-01 21:45:00,CUST-3337,High,Web Portal,41.1,Yes,Escalated,5,Technical Support
+TKT-2026040021,2026-04-01 22:00:00,CUST-3526,Low,Mobile App,15.6,Yes,Closed,5,Account Management
+TKT-2026040022,2026-04-01 22:15:00,CUST-1449,Urgent,Email,9.5,Yes,Closed,5,Network Outage
+TKT-2026040023,2026-04-02 00:30:00,CUST-4692,Medium,Web Portal,15.4,Yes,In Progress,5,Network Outage
+TKT-2026040024,2026-04-02 01:30:00,CUST-6053,Urgent,Email,6.6,Yes,Closed,5,Account Management
+TKT-2026040025,2026-04-02 01:45:00,CUST-1695,Medium,Web Portal,27.4,Yes,Closed,5,Technical Support
+TKT-2026040026,2026-04-02 02:45:00,CUST-8889,High,Email,17.7,Yes,Closed,4,Billing & Payment
+TKT-2026040027,2026-04-02 03:00:00,CUST-8200,Medium,Mobile App,7.5,Yes,Closed,4,Technical Support
+TKT-2026040028,2026-04-02 03:30:00,CUST-2827,Medium,Web Portal,9.4,Yes,Closed,4,General Inquiry
+TKT-2026040029,2026-04-02 05:30:00,CUST-3820,Medium,Web Portal,26.1,Yes,In Progress,5,Technical Support
+TKT-2026040030,2026-04-02 06:30:00,CUST-8183,Low,Mobile App,13.3,No,Closed,1,Account Management
+TKT-2026040031,2026-04-02 06:30:00,CUST-9190,Medium,Email,14.2,Yes,Closed,5,Technical Support
+TKT-2026040032,2026-04-02 07:00:00,CUST-8102,Medium,Email,7.4,Yes,Closed,4,Account Management
+TKT-2026040033,2026-04-02 08:30:00,CUST-5518,Low,Email,9.6,Yes,Closed,3,Technical Support
+TKT-2026040034,2026-04-02 09:00:00,CUST-8540,Low,Email,9.7,Yes,Closed,5,Account Management
+TKT-2026040035,2026-04-02 10:00:00,CUST-6412,Medium,Email,11.7,Yes,Escalated,5,Technical Support
+TKT-2026040036,2026-04-02 10:15:00,CUST-5499,Medium,Web Portal,19.0,Yes,Closed,5,Technical Support
+TKT-2026040037,2026-04-02 10:30:00,CUST-2969,High,Email,40.9,Yes,Closed,5,Technical Support
+TKT-2026040038,2026-04-02 11:00:00,CUST-2123,Medium,Email,23.1,Yes,Closed,5,General Inquiry
+TKT-2026040039,2026-04-02 11:15:00,CUST-5194,Low,Mobile App,25.0,Yes,Closed,4,Technical Support
+TKT-2026040040,2026-04-02 13:30:00,CUST-5677,High,Email,27.7,Yes,Closed,4,Billing & Payment
+TKT-2026040041,2026-04-02 15:45:00,CUST-3473,Medium,Email,38.2,Yes,Closed,5,Billing & Payment
+TKT-2026040042,2026-04-02 16:15:00,CUST-7519,Medium,Email,7.3,No,Closed,2,Network Outage
+TKT-2026040043,2026-04-02 17:30:00,CUST-3421,Low,Web Portal,11.5,Yes,In Progress,5,General Inquiry
+TKT-2026040044,2026-04-02 18:30:00,CUST-7881,Medium,Web Portal,45.8,Yes,Closed,4,Billing & Payment
+TKT-2026040045,2026-04-02 20:00:00,CUST-2327,Low,Mobile App,13.4,Yes,Closed,5,Network Outage
+TKT-2026040046,2026-04-02 21:15:00,CUST-7684,Medium,Email,16.0,No,In Progress,2,Billing & Payment
+TKT-2026040047,2026-04-02 21:15:00,CUST-2121,Low,Email,25.6,Yes,Closed,4,Network Outage
+TKT-2026040048,2026-04-02 21:45:00,CUST-6649,Low,Email,9.5,No,Closed,3,Account Management
+TKT-2026040049,2026-04-03 00:15:00,CUST-1383,Low,Web Portal,72.8,Yes,Closed,3,Billing & Payment
+TKT-2026040050,2026-04-03 01:15:00,CUST-2747,Medium,Mobile App,9.4,Yes,In Progress,3,Technical Support
+TKT-2026040051,2026-04-03 01:45:00,CUST-3153,Low,Web Portal,15.5,Yes,Closed,5,Network Outage
+TKT-2026040052,2026-04-03 02:45:00,CUST-7980,High,Web Portal,181.0,No,Closed,1,Technical Support
+TKT-2026040053,2026-04-03 03:15:00,CUST-7459,Low,Email,41.8,Yes,Closed,4,Account Management
+TKT-2026040054,2026-04-03 03:45:00,CUST-5596,Low,Mobile App,10.9,No,Closed,1,Billing & Payment
+TKT-2026040055,2026-04-03 04:15:00,CUST-4705,Low,Mobile App,17.5,Yes,Closed,3,Billing & Payment
+TKT-2026040056,2026-04-03 06:15:00,CUST-8175,High,Web Portal,15.0,No,In Progress,1,Network Outage
+TKT-2026040057,2026-04-03 06:30:00,CUST-2366,High,Email,65.2,Yes,Escalated,1,Technical Support
+TKT-2026040058,2026-04-03 07:15:00,CUST-9052,Low,Web Portal,11.6,Yes,In Progress,4,Account Management
+TKT-2026040059,2026-04-03 07:30:00,CUST-8194,Low,Email,12.3,No,Closed,2,General Inquiry
+TKT-2026040060,2026-04-03 08:15:00,CUST-9462,Medium,Email,20.1,Yes,Closed,5,General Inquiry
+TKT-2026040061,2026-04-03 08:30:00,CUST-4577,High,Web Portal,23.1,Yes,In Progress,4,Billing & Payment
+TKT-2026040062,2026-04-03 08:30:00,CUST-8212,Low,Web Portal,31.5,Yes,Closed,5,Billing & Payment
+TKT-2026040063,2026-04-03 09:30:00,CUST-7977,Medium,Mobile App,6.9,No,Escalated,1,Technical Support
+TKT-2026040064,2026-04-03 11:15:00,CUST-8140,High,Email,23.7,No,Closed,2,Billing & Payment
+TKT-2026040065,2026-04-03 11:30:00,CUST-4314,Medium,Web Portal,45.9,Yes,Closed,5,Account Management
+TKT-2026040066,2026-04-03 11:45:00,CUST-2790,Medium,Mobile App,21.7,Yes,Closed,5,Technical Support
+TKT-2026040067,2026-04-03 12:15:00,CUST-5548,Low,Web Portal,25.9,Yes,Closed,5,Billing & Payment
+TKT-2026040068,2026-04-03 12:15:00,CUST-8935,Medium,Web Portal,22.1,Yes,Closed,5,Billing & Payment
+TKT-2026040069,2026-04-03 13:45:00,CUST-8429,Medium,Web Portal,15.2,Yes,Closed,5,Billing & Payment
+TKT-2026040070,2026-04-03 14:15:00,CUST-6044,High,Mobile App,7.2,Yes,Closed,4,Account Management
+TKT-2026040071,2026-04-03 15:45:00,CUST-2488,Low,Email,44.3,Yes,Closed,5,Network Outage
+TKT-2026040072,2026-04-03 16:15:00,CUST-9215,Medium,Web Portal,21.1,Yes,Closed,5,Technical Support
+TKT-2026040073,2026-04-03 17:00:00,CUST-4349,High,Web Portal,15.2,Yes,Escalated,5,Account Management
+TKT-2026040074,2026-04-03 17:30:00,CUST-1135,Low,Mobile App,4.1,Yes,Closed,5,Network Outage
+TKT-2026040075,2026-04-03 18:15:00,CUST-8611,Low,Email,5.2,Yes,Escalated,5,Technical Support
+TKT-2026040076,2026-04-03 18:45:00,CUST-2735,Low,Web Portal,23.1,Yes,Closed,4,Technical Support
+TKT-2026040077,2026-04-03 19:15:00,CUST-7067,Low,Web Portal,7.8,Yes,Closed,5,Technical Support
+TKT-2026040078,2026-04-03 19:15:00,CUST-8904,Low,Email,5.4,Yes,Closed,5,Account Management
+TKT-2026040079,2026-04-03 20:45:00,CUST-1271,High,Mobile App,20.6,Yes,Closed,5,Account Management
+TKT-2026040080,2026-04-03 22:00:00,CUST-8949,High,Web Portal,7.4,Yes,Closed,4,Network Outage
+TKT-2026040081,2026-04-03 22:00:00,CUST-4200,Medium,Web Portal,5.0,Yes,Closed,5,Network Outage
+TKT-2026040082,2026-04-04 00:00:00,CUST-2864,Low,Email,11.3,Yes,In Progress,5,Network Outage
+TKT-2026040083,2026-04-04 00:15:00,CUST-2617,Urgent,Email,33.7,Yes,Closed,4,Billing & Payment
+TKT-2026040084,2026-04-04 01:00:00,CUST-1725,Low,Email,14.7,Yes,Closed,5,Account Management
+TKT-2026040085,2026-04-04 01:45:00,CUST-8100,High,Email,122.0,Yes,Closed,3,Technical Support
+TKT-2026040086,2026-04-04 02:15:00,CUST-2954,Low,Web Portal,21.2,Yes,Closed,4,Account Management
+TKT-2026040087,2026-04-04 03:30:00,CUST-7596,Medium,Web Portal,7.0,Yes,Closed,5,Technical Support
+TKT-2026040088,2026-04-04 05:45:00,CUST-3869,Medium,Email,9.6,No,In Progress,2,General Inquiry
+TKT-2026040089,2026-04-04 05:45:00,CUST-5365,Medium,Web Portal,5.2,Yes,Closed,5,Technical Support
+TKT-2026040090,2026-04-04 07:45:00,CUST-7355,Low,Web Portal,4.4,Yes,Closed,3,Billing & Payment
+TKT-2026040091,2026-04-04 07:45:00,CUST-8655,High,Email,22.4,No,Closed,2,Technical Support
+TKT-2026040092,2026-04-04 08:30:00,CUST-2703,Low,Email,53.8,No,Closed,1,Technical Support
+TKT-2026040093,2026-04-04 08:30:00,CUST-8148,Medium,Web Portal,6.5,Yes,Closed,5,Account Management
+TKT-2026040094,2026-04-04 09:45:00,CUST-7591,Low,Email,8.1,Yes,Closed,4,Technical Support
+TKT-2026040095,2026-04-04 10:00:00,CUST-7115,Medium,Mobile App,12.7,Yes,Closed,5,General Inquiry
+TKT-2026040096,2026-04-04 10:30:00,CUST-2276,Low,Email,17.0,Yes,Closed,4,Technical Support
+TKT-2026040097,2026-04-04 12:45:00,CUST-6375,Low,Mobile App,5.5,Yes,Closed,4,Technical Support
+TKT-2026040098,2026-04-04 13:00:00,CUST-5170,Medium,Email,18.3,Yes,Closed,5,Technical Support
+TKT-2026040099,2026-04-04 15:15:00,CUST-3075,High,Email,12.7,No,Closed,2,Billing & Payment
+TKT-2026040100,2026-04-04 15:30:00,CUST-4704,High,Web Portal,20.2,No,Escalated,1,Technical Support
+TKT-2026040101,2026-04-04 16:15:00,CUST-6697,Medium,Web Portal,8.1,Yes,In Progress,5,Network Outage
+TKT-2026040102,2026-04-04 16:45:00,CUST-3074,Urgent,Web Portal,27.1,No,In Progress,2,Technical Support
+TKT-2026040103,2026-04-04 17:30:00,CUST-7363,Low,Web Portal,7.6,No,In Progress,2,Billing & Payment
+TKT-2026040104,2026-04-04 17:45:00,CUST-8931,Urgent,Web Portal,23.2,Yes,Closed,5,Network Outage
+TKT-2026040105,2026-04-04 17:45:00,CUST-2876,Low,Email,37.7,Yes,In Progress,5,Technical Support
+TKT-2026040106,2026-04-04 18:00:00,CUST-8462,High,Email,17.5,Yes,Closed,4,Account Management
+TKT-2026040107,2026-04-04 18:00:00,CUST-3432,Low,Email,11.1,Yes,Closed,5,Technical Support
+TKT-2026040108,2026-04-04 18:30:00,CUST-3708,High,Mobile App,5.3,Yes,Closed,5,Account Management
+TKT-2026040109,2026-04-04 19:00:00,CUST-1263,Low,Web Portal,5.1,Yes,Closed,5,Technical Support
+TKT-2026040110,2026-04-04 21:00:00,CUST-3441,Medium,Web Portal,33.9,Yes,Closed,5,Billing & Payment
+TKT-2026040111,2026-04-04 23:00:00,CUST-2822,High,Email,14.0,Yes,Closed,5,Billing & Payment
+TKT-2026040112,2026-04-04 23:00:00,CUST-2843,Low,Web Portal,45.6,Yes,Closed,4,Billing & Payment
+TKT-2026040113,2026-04-04 23:45:00,CUST-7392,Medium,Email,8.3,Yes,Closed,4,Network Outage
+TKT-2026040114,2026-04-05 00:30:00,CUST-5058,Low,Web Portal,12.3,No,In Progress,2,Account Management
+TKT-2026040115,2026-04-05 01:15:00,CUST-2127,Low,Web Portal,16.0,Yes,Closed,5,Billing & Payment
+TKT-2026040116,2026-04-05 01:30:00,CUST-3587,Low,Email,9.3,Yes,Closed,4,General Inquiry
+TKT-2026040117,2026-04-05 01:30:00,CUST-6600,Medium,Email,65.6,Yes,Closed,1,Billing & Payment
+TKT-2026040118,2026-04-05 01:45:00,CUST-2089,Low,Web Portal,10.5,Yes,Closed,5,Account Management
+TKT-2026040119,2026-04-05 02:00:00,CUST-2393,High,Web Portal,33.5,No,Closed,1,General Inquiry
+TKT-2026040120,2026-04-05 02:15:00,CUST-5864,Low,Web Portal,53.2,No,Closed,1,Technical Support
+TKT-2026040121,2026-04-05 02:15:00,CUST-5877,High,Web Portal,66.3,Yes,Closed,3,Network Outage
+TKT-2026040122,2026-04-05 03:45:00,CUST-7345,Low,Email,57.9,Yes,Closed,3,Billing & Payment
+TKT-2026040123,2026-04-05 03:45:00,CUST-1710,Low,Email,23.9,Yes,Closed,5,Account Management
+TKT-2026040124,2026-04-05 05:00:00,CUST-8188,High,Web Portal,5.1,Yes,Closed,4,Account Management
+TKT-2026040125,2026-04-05 05:15:00,CUST-7957,Medium,Email,12.5,No,Closed,1,Network Outage
+TKT-2026040126,2026-04-05 08:30:00,CUST-3934,Low,Mobile App,5.9,No,Closed,1,Account Management
+TKT-2026040127,2026-04-05 08:30:00,CUST-7228,Low,Email,4.7,No,Closed,3,Network Outage
+TKT-2026040128,2026-04-05 08:30:00,CUST-2352,High,Email,8.2,Yes,Escalated,4,Network Outage
+TKT-2026040129,2026-04-05 09:00:00,CUST-3226,High,Email,48.3,No,In Progress,3,Technical Support
+TKT-2026040130,2026-04-05 09:15:00,CUST-2615,Low,Email,37.0,Yes,Escalated,4,Network Outage
+TKT-2026040131,2026-04-05 09:30:00,CUST-9295,Medium,Email,14.7,No,Closed,2,Technical Support
+TKT-2026040132,2026-04-05 09:45:00,CUST-7862,Medium,Email,8.6,Yes,Closed,5,Account Management
+TKT-2026040133,2026-04-05 10:30:00,CUST-7492,High,Web Portal,24.7,Yes,Closed,5,Billing & Payment
+TKT-2026040134,2026-04-05 12:00:00,CUST-5470,Medium,Email,7.7,Yes,Closed,5,Technical Support
+TKT-2026040135,2026-04-05 13:00:00,CUST-9269,High,Email,4.9,Yes,Closed,4,Account Management
+TKT-2026040136,2026-04-05 14:00:00,CUST-5200,Low,Email,16.8,Yes,In Progress,5,Technical Support
+TKT-2026040137,2026-04-05 15:30:00,CUST-3586,Low,Email,19.6,Yes,Closed,5,Billing & Payment
+TKT-2026040138,2026-04-05 16:00:00,CUST-7208,Low,Email,6.6,Yes,Closed,4,Account Management
+TKT-2026040139,2026-04-05 16:15:00,CUST-8141,Medium,Email,14.0,No,Closed,2,Account Management
+TKT-2026040140,2026-04-05 16:30:00,CUST-4177,High,Email,21.2,No,Closed,2,Billing & Payment
+TKT-2026040141,2026-04-05 18:00:00,CUST-4541,Urgent,Mobile App,31.0,No,In Progress,1,Technical Support
+TKT-2026040142,2026-04-05 18:00:00,CUST-1068,High,Email,18.2,No,Closed,1,Billing & Payment
+TKT-2026040143,2026-04-05 20:00:00,CUST-4421,Low,Email,16.5,Yes,Closed,4,Account Management
+TKT-2026040144,2026-04-05 21:45:00,CUST-4869,Low,Email,8.6,No,In Progress,1,Network Outage
+TKT-2026040145,2026-04-05 22:00:00,CUST-3586,Low,Email,9.4,Yes,In Progress,4,Billing & Payment
+TKT-2026040146,2026-04-05 22:30:00,CUST-7698,Medium,Mobile App,6.2,Yes,Closed,3,Account Management
+TKT-2026040147,2026-04-05 22:30:00,CUST-6052,Low,Email,4.2,Yes,Closed,5,Billing & Payment
+TKT-2026040148,2026-04-05 22:45:00,CUST-8911,Medium,Email,4.6,Yes,Closed,5,Technical Support
+TKT-2026040149,2026-04-06 00:00:00,CUST-5873,Medium,Web Portal,55.7,No,Closed,1,Account Management
+TKT-2026040150,2026-04-06 00:00:00,CUST-3408,Urgent,Email,51.9,Yes,In Progress,2,Billing & Payment
+TKT-2026040151,2026-04-06 03:00:00,CUST-7094,Low,Email,17.9,Yes,In Progress,5,Technical Support
+TKT-2026040152,2026-04-06 03:15:00,CUST-4444,Urgent,Web Portal,54.8,No,Escalated,2,Technical Support
+TKT-2026040153,2026-04-06 04:15:00,CUST-2819,Medium,Email,22.7,Yes,Closed,4,Billing & Payment
+TKT-2026040154,2026-04-06 06:30:00,CUST-1592,Medium,Email,6.7,Yes,Closed,5,Account Management
+TKT-2026040155,2026-04-06 07:30:00,CUST-4105,Low,Mobile App,21.3,No,Closed,1,Account Management
+TKT-2026040156,2026-04-06 08:00:00,CUST-2861,Medium,Email,15.5,Yes,Closed,4,Account Management
+TKT-2026040157,2026-04-06 09:00:00,CUST-9089,High,Web Portal,13.5,No,Escalated,1,Technical Support
+TKT-2026040158,2026-04-06 09:15:00,CUST-2550,Medium,Web Portal,7.6,Yes,Escalated,4,Network Outage
+TKT-2026040159,2026-04-06 10:15:00,CUST-5973,High,Web Portal,4.0,Yes,Closed,4,Billing & Payment
+TKT-2026040160,2026-04-06 10:15:00,CUST-2350,Low,Web Portal,6.0,Yes,Closed,5,Account Management
+TKT-2026040161,2026-04-06 10:15:00,CUST-6877,Low,Email,7.0,Yes,Closed,3,Technical Support
+TKT-2026040162,2026-04-06 10:45:00,CUST-4987,Medium,Email,9.1,Yes,Closed,5,Billing & Payment
+TKT-2026040163,2026-04-06 12:30:00,CUST-8595,High,Email,6.9,No,Closed,3,Billing & Payment
+TKT-2026040164,2026-04-06 12:30:00,CUST-2524,Low,Email,11.4,Yes,In Progress,3,Network Outage
+TKT-2026040165,2026-04-06 13:15:00,CUST-1552,High,Email,6.9,Yes,Closed,5,Account Management
+TKT-2026040166,2026-04-06 17:00:00,CUST-5397,High,Email,30.0,No,Escalated,4,Technical Support
+TKT-2026040167,2026-04-06 17:15:00,CUST-5980,Medium,Email,11.2,Yes,Closed,4,Network Outage
+TKT-2026040168,2026-04-06 17:45:00,CUST-3090,Low,Web Portal,13.7,No,Closed,1,Technical Support
+TKT-2026040169,2026-04-06 18:45:00,CUST-3326,Low,Web Portal,13.8,Yes,Closed,5,Technical Support
+TKT-2026040170,2026-04-06 20:00:00,CUST-5470,Medium,Email,20.5,No,Closed,3,Technical Support
+TKT-2026040171,2026-04-06 21:15:00,CUST-6126,Medium,Web Portal,5.1,Yes,Closed,5,Billing & Payment
+TKT-2026040172,2026-04-06 22:00:00,CUST-1071,High,Web Portal,44.7,Yes,Closed,5,Network Outage
+TKT-2026040173,2026-04-06 22:00:00,CUST-4107,Medium,Email,6.3,Yes,Closed,3,Network Outage
+TKT-2026040174,2026-04-06 22:30:00,CUST-5764,Medium,Email,5.8,Yes,Closed,4,Technical Support
+TKT-2026040175,2026-04-07 00:00:00,CUST-5040,Medium,Email,8.7,Yes,Closed,4,Network Outage
+TKT-2026040176,2026-04-07 00:00:00,CUST-9122,Low,Email,19.1,Yes,Closed,4,Billing & Payment
+TKT-2026040177,2026-04-07 00:45:00,CUST-4114,Medium,Web Portal,13.2,Yes,Escalated,4,Account Management
+TKT-2026040178,2026-04-07 02:00:00,CUST-5337,High,Web Portal,14.9,Yes,Closed,4,Billing & Payment
+TKT-2026040179,2026-04-07 02:30:00,CUST-7214,Low,Email,49.8,No,Closed,1,Account Management
+TKT-2026040180,2026-04-07 03:30:00,CUST-6340,Low,Web Portal,26.5,No,Closed,3,Technical Support
+TKT-2026040181,2026-04-07 05:00:00,CUST-9944,High,Email,15.2,Yes,Closed,4,Account Management
+TKT-2026040182,2026-04-07 05:45:00,CUST-3633,Low,Email,5.3,Yes,Closed,5,Network Outage
+TKT-2026040183,2026-04-07 06:45:00,CUST-4945,High,Email,26.0,No,In Progress,3,Billing & Payment
+TKT-2026040184,2026-04-07 07:00:00,CUST-9173,Medium,Web Portal,7.6,Yes,In Progress,5,Technical Support
+TKT-2026040185,2026-04-07 07:00:00,CUST-2788,Medium,Email,17.4,Yes,Closed,4,Technical Support
+TKT-2026040186,2026-04-07 07:30:00,CUST-8908,Low,Mobile App,8.2,Yes,Closed,5,Technical Support
+TKT-2026040187,2026-04-07 07:30:00,CUST-6645,Medium,Email,29.5,No,Closed,1,Network Outage
+TKT-2026040188,2026-04-07 07:45:00,CUST-2038,Medium,Mobile App,8.3,No,Escalated,1,Account Management
+TKT-2026040189,2026-04-07 09:30:00,CUST-4302,High,Mobile App,18.6,Yes,Closed,5,Billing & Payment
+TKT-2026040190,2026-04-07 10:30:00,CUST-4651,Low,Email,25.9,Yes,Closed,4,Account Management
+TKT-2026040191,2026-04-07 10:45:00,CUST-5768,Urgent,Email,6.0,No,Closed,3,Network Outage
+TKT-2026040192,2026-04-07 11:30:00,CUST-5855,Medium,Mobile App,18.8,Yes,Closed,4,Technical Support
+TKT-2026040193,2026-04-07 11:30:00,CUST-2622,Low,Email,16.5,No,In Progress,4,Billing & Payment
+TKT-2026040194,2026-04-07 11:45:00,CUST-4692,Low,Email,7.9,Yes,Closed,5,Technical Support
+TKT-2026040195,2026-04-07 12:00:00,CUST-2107,High,Mobile App,5.6,Yes,Closed,4,Account Management
+TKT-2026040196,2026-04-07 12:15:00,CUST-5602,Medium,Email,13.9,Yes,Closed,5,Network Outage
+TKT-2026040197,2026-04-07 13:00:00,CUST-5991,Medium,Email,22.4,Yes,Closed,5,Technical Support
+TKT-2026040198,2026-04-07 13:30:00,CUST-9141,High,Email,76.1,Yes,In Progress,1,Technical Support
+TKT-2026040199,2026-04-07 13:30:00,CUST-4215,Medium,Email,19.0,Yes,Closed,4,Technical Support
+TKT-2026040200,2026-04-07 14:00:00,CUST-8571,Medium,Email,22.8,Yes,Closed,3,Technical Support
+TKT-2026040201,2026-04-07 14:45:00,CUST-4734,High,Email,4.3,Yes,Closed,5,General Inquiry
+TKT-2026040202,2026-04-07 15:45:00,CUST-7705,High,Email,9.1,Yes,Closed,5,Billing & Payment
+TKT-2026040203,2026-04-07 16:00:00,CUST-6282,Low,Web Portal,57.9,Yes,Closed,2,General Inquiry
+TKT-2026040204,2026-04-07 16:45:00,CUST-8249,High,Email,25.7,No,In Progress,1,Technical Support
+TKT-2026040205,2026-04-07 17:15:00,CUST-6053,Low,Email,21.9,No,Closed,1,Billing & Payment
+TKT-2026040206,2026-04-07 17:15:00,CUST-2445,Low,Email,7.3,Yes,Escalated,3,Billing & Payment
+TKT-2026040207,2026-04-07 17:30:00,CUST-5756,Medium,Mobile App,8.5,Yes,In Progress,5,Billing & Payment
+TKT-2026040208,2026-04-07 17:45:00,CUST-3843,High,Mobile App,24.8,No,Escalated,2,Technical Support
+TKT-2026040209,2026-04-07 18:30:00,CUST-9961,Medium,Email,13.6,No,Closed,1,Technical Support
+TKT-2026040210,2026-04-07 18:45:00,CUST-3174,Medium,Email,15.2,Yes,Closed,4,Technical Support
+TKT-2026040211,2026-04-07 19:00:00,CUST-9825,Low,Web Portal,7.5,Yes,Closed,5,Billing & Payment
+TKT-2026040212,2026-04-07 21:00:00,CUST-1519,Medium,Mobile App,13.5,No,Closed,1,Technical Support
+TKT-2026040213,2026-04-07 21:15:00,CUST-5647,Low,Mobile App,25.6,No,Closed,3,Account Management
+TKT-2026040214,2026-04-07 22:15:00,CUST-2858,Low,Web Portal,8.3,Yes,Closed,4,Billing & Payment
+TKT-2026040215,2026-04-07 22:30:00,CUST-5362,Low,Mobile App,8.5,No,Closed,1,Network Outage
+TKT-2026040216,2026-04-07 22:30:00,CUST-6617,High,Email,28.0,No,Closed,1,Technical Support
+TKT-2026040217,2026-04-07 23:00:00,CUST-8785,Low,Email,11.5,Yes,Closed,5,Technical Support
+TKT-2026040218,2026-04-07 23:00:00,CUST-8396,Medium,Email,8.4,Yes,Closed,3,Billing & Payment
+TKT-2026040219,2026-04-07 23:15:00,CUST-4241,Low,Mobile App,25.0,Yes,Closed,5,Technical Support
+TKT-2026040220,2026-04-08 00:15:00,CUST-3856,Medium,Web Portal,25.5,Yes,Closed,5,Technical Support
+TKT-2026040221,2026-04-08 00:45:00,CUST-6266,High,Email,9.6,No,Closed,1,Billing & Payment
+TKT-2026040222,2026-04-08 01:00:00,CUST-5344,Low,Mobile App,5.6,Yes,Closed,5,Billing & Payment
+TKT-2026040223,2026-04-08 01:15:00,CUST-8096,Low,Web Portal,6.9,Yes,Closed,5,Billing & Payment
+TKT-2026040224,2026-04-08 01:15:00,CUST-6501,Urgent,Email,18.4,Yes,Closed,3,Billing & Payment
+TKT-2026040225,2026-04-08 01:15:00,CUST-3695,High,Mobile App,33.2,Yes,Closed,5,Billing & Payment
+TKT-2026040226,2026-04-08 01:45:00,CUST-9558,Urgent,Email,43.1,No,Closed,1,Technical Support
+TKT-2026040227,2026-04-08 01:45:00,CUST-7140,Medium,Email,6.2,Yes,Closed,5,Account Management
+TKT-2026040228,2026-04-08 02:45:00,CUST-8005,High,Email,47.1,No,Closed,1,Technical Support
+TKT-2026040229,2026-04-08 02:45:00,CUST-3334,Urgent,Web Portal,7.1,Yes,Closed,5,Account Management
+TKT-2026040230,2026-04-08 03:15:00,CUST-4301,Low,Email,69.9,Yes,Closed,1,General Inquiry
+TKT-2026040231,2026-04-08 05:00:00,CUST-5010,Medium,Email,11.1,Yes,Closed,3,Account Management
+TKT-2026040232,2026-04-08 05:30:00,CUST-9382,Urgent,Email,20.5,Yes,In Progress,4,Network Outage
+TKT-2026040233,2026-04-08 06:15:00,CUST-3159,Low,Web Portal,38.7,Yes,In Progress,5,Network Outage
+TKT-2026040234,2026-04-08 08:15:00,CUST-1622,Low,Web Portal,7.4,Yes,Closed,5,Technical Support
+TKT-2026040235,2026-04-08 08:45:00,CUST-2688,High,Email,8.0,Yes,In Progress,4,Billing & Payment
+TKT-2026040236,2026-04-08 10:30:00,CUST-9978,Low,Web Portal,12.2,Yes,Closed,5,Technical Support
+TKT-2026040237,2026-04-08 11:00:00,CUST-7096,Low,Mobile App,29.7,Yes,Closed,3,Network Outage
+TKT-2026040238,2026-04-08 11:30:00,CUST-7024,Medium,Web Portal,13.0,Yes,Closed,5,General Inquiry
+TKT-2026040239,2026-04-08 12:00:00,CUST-5538,High,Web Portal,18.2,Yes,Closed,5,Network Outage
+TKT-2026040240,2026-04-08 14:00:00,CUST-6934,Medium,Email,4.4,No,Closed,1,Technical Support
+TKT-2026040241,2026-04-08 14:00:00,CUST-9916,Low,Email,11.5,Yes,In Progress,5,Account Management
+TKT-2026040242,2026-04-08 15:30:00,CUST-6039,Medium,Mobile App,7.7,Yes,Closed,5,Technical Support
+TKT-2026040243,2026-04-08 15:45:00,CUST-6427,High,Email,14.7,Yes,In Progress,5,Billing & Payment
+TKT-2026040244,2026-04-08 16:30:00,CUST-9705,Medium,Web Portal,4.4,Yes,Closed,4,Billing & Payment
+TKT-2026040245,2026-04-08 16:45:00,CUST-6851,Low,Web Portal,8.1,Yes,Closed,5,Billing & Payment
+TKT-2026040246,2026-04-08 18:00:00,CUST-8926,Medium,Email,13.6,No,Closed,2,Billing & Payment
+TKT-2026040247,2026-04-08 18:30:00,CUST-9974,Low,Web Portal,11.5,Yes,Closed,4,Network Outage
+TKT-2026040248,2026-04-08 19:00:00,CUST-1721,High,Mobile App,7.9,Yes,Closed,5,Billing & Payment
+TKT-2026040249,2026-04-08 19:45:00,CUST-6427,Low,Web Portal,4.3,Yes,In Progress,4,Technical Support
+TKT-2026040250,2026-04-08 19:45:00,CUST-2381,Urgent,Web Portal,8.3,No,In Progress,4,Account Management
+TKT-2026040251,2026-04-08 20:45:00,CUST-2954,Urgent,Email,227.9,No,In Progress,2,Technical Support
+TKT-2026040252,2026-04-08 20:45:00,CUST-5523,Low,Web Portal,21.6,Yes,Closed,5,Technical Support
+TKT-2026040253,2026-04-08 22:30:00,CUST-9906,High,Email,25.5,Yes,Escalated,5,Technical Support
+TKT-2026040254,2026-04-08 22:45:00,CUST-2831,High,Web Portal,6.2,Yes,Closed,5,Account Management
+TKT-2026040255,2026-04-09 00:00:00,CUST-2383,High,Email,4.5,Yes,Closed,5,General Inquiry
+TKT-2026040256,2026-04-09 00:30:00,CUST-1905,Low,Email,12.4,Yes,Closed,4,Billing & Payment
+TKT-2026040257,2026-04-09 01:15:00,CUST-1650,Medium,Email,6.7,Yes,Closed,3,Billing & Payment
+TKT-2026040258,2026-04-09 01:15:00,CUST-3645,Medium,Email,28.7,No,Closed,1,Technical Support
+TKT-2026040259,2026-04-09 01:45:00,CUST-7897,Medium,Web Portal,32.7,Yes,Closed,5,Technical Support
+TKT-2026040260,2026-04-09 01:45:00,CUST-9342,High,Email,21.0,Yes,In Progress,4,Technical Support
+TKT-2026040261,2026-04-09 02:15:00,CUST-3421,Medium,Web Portal,5.5,Yes,Closed,3,Account Management
+TKT-2026040262,2026-04-09 02:15:00,CUST-3658,Medium,Mobile App,32.8,Yes,In Progress,5,Technical Support
+TKT-2026040263,2026-04-09 02:30:00,CUST-8423,Medium,Web Portal,9.4,Yes,Closed,4,Technical Support
+TKT-2026040264,2026-04-09 02:30:00,CUST-3899,Medium,Web Portal,14.0,Yes,In Progress,5,Network Outage
+TKT-2026040265,2026-04-09 02:45:00,CUST-5797,Low,Web Portal,10.8,Yes,Closed,4,Technical Support
+TKT-2026040266,2026-04-09 03:15:00,CUST-8045,High,Email,161.6,No,Closed,1,Technical Support
+TKT-2026040267,2026-04-09 03:30:00,CUST-7929,Low,Email,23.6,Yes,Closed,5,Billing & Payment
+TKT-2026040268,2026-04-09 04:00:00,CUST-6545,Medium,Web Portal,8.1,Yes,Closed,5,Network Outage
+TKT-2026040269,2026-04-09 05:45:00,CUST-5016,High,Web Portal,10.3,Yes,Closed,5,Account Management
+TKT-2026040270,2026-04-09 07:30:00,CUST-5736,Medium,Email,7.2,Yes,Closed,5,Network Outage
+TKT-2026040271,2026-04-09 07:30:00,CUST-8071,Urgent,Email,4.4,Yes,Closed,4,Network Outage
+TKT-2026040272,2026-04-09 07:30:00,CUST-4633,Low,Email,16.1,Yes,Closed,4,Technical Support
+TKT-2026040273,2026-04-09 07:45:00,CUST-3716,Low,Email,25.0,No,Escalated,3,Account Management
+TKT-2026040274,2026-04-09 08:00:00,CUST-9651,Low,Mobile App,7.4,Yes,Closed,4,Network Outage
+TKT-2026040275,2026-04-09 08:00:00,CUST-4575,Low,Mobile App,35.6,Yes,In Progress,3,General Inquiry
+TKT-2026040276,2026-04-09 08:30:00,CUST-1050,Urgent,Web Portal,32.8,No,In Progress,1,Technical Support
+TKT-2026040277,2026-04-09 08:45:00,CUST-9330,Low,Mobile App,24.1,Yes,Closed,5,Technical Support
+TKT-2026040278,2026-04-09 08:45:00,CUST-2699,Low,Mobile App,14.3,Yes,Closed,5,Billing & Payment
+TKT-2026040279,2026-04-09 10:00:00,CUST-1168,Low,Mobile App,7.1,No,Closed,2,Network Outage
+TKT-2026040280,2026-04-09 10:30:00,CUST-5477,Medium,Web Portal,12.9,No,In Progress,1,Billing & Payment
+TKT-2026040281,2026-04-09 10:30:00,CUST-5926,Medium,Web Portal,10.2,No,Closed,2,Account Management
+TKT-2026040282,2026-04-09 12:15:00,CUST-3663,Low,Mobile App,4.9,Yes,Closed,5,Technical Support
+TKT-2026040283,2026-04-09 12:30:00,CUST-1677,Low,Mobile App,5.6,Yes,Closed,5,Account Management
+TKT-2026040284,2026-04-09 13:30:00,CUST-2308,High,Web Portal,5.3,Yes,Closed,5,Account Management
+TKT-2026040285,2026-04-09 14:00:00,CUST-7933,Medium,Email,7.9,No,Closed,1,General Inquiry
+TKT-2026040286,2026-04-09 14:15:00,CUST-4249,Medium,Web Portal,8.7,Yes,Closed,4,Technical Support
+TKT-2026040287,2026-04-09 14:45:00,CUST-8083,Low,Email,10.2,Yes,Closed,3,Account Management
+TKT-2026040288,2026-04-09 15:15:00,CUST-7230,Low,Email,10.5,No,Closed,1,Network Outage
+TKT-2026040289,2026-04-09 16:00:00,CUST-7520,High,Email,6.7,Yes,Closed,4,Network Outage
+TKT-2026040290,2026-04-09 16:15:00,CUST-7409,Low,Email,59.3,Yes,Closed,1,Network Outage
+TKT-2026040291,2026-04-09 16:15:00,CUST-6520,High,Email,7.2,Yes,Closed,5,Billing & Payment
+TKT-2026040292,2026-04-09 16:30:00,CUST-9107,Low,Email,10.6,Yes,Closed,3,Technical Support
+TKT-2026040293,2026-04-09 17:15:00,CUST-6177,High,Web Portal,55.6,Yes,Closed,1,Technical Support
+TKT-2026040294,2026-04-09 17:30:00,CUST-5956,High,Web Portal,8.3,Yes,Closed,5,Network Outage
+TKT-2026040295,2026-04-09 18:00:00,CUST-8104,Medium,Web Portal,18.8,Yes,Closed,5,Technical Support
+TKT-2026040296,2026-04-09 18:30:00,CUST-1069,Medium,Email,5.3,Yes,Escalated,4,General Inquiry
+TKT-2026040297,2026-04-09 18:30:00,CUST-4260,High,Email,49.4,No,Closed,2,Technical Support
+TKT-2026040298,2026-04-09 18:45:00,CUST-3889,Low,Email,4.7,Yes,Closed,4,Technical Support
+TKT-2026040299,2026-04-09 19:30:00,CUST-4180,Medium,Web Portal,41.0,Yes,Closed,4,Technical Support
+TKT-2026040300,2026-04-09 19:45:00,CUST-9552,Medium,Email,15.9,Yes,Closed,5,Network Outage
+TKT-2026040301,2026-04-09 19:45:00,CUST-8171,Medium,Web Portal,9.4,Yes,In Progress,3,General Inquiry
+TKT-2026040302,2026-04-09 20:30:00,CUST-4065,Urgent,Web Portal,8.0,Yes,Closed,5,Network Outage
+TKT-2026040303,2026-04-09 20:30:00,CUST-7935,Low,Web Portal,17.0,Yes,Closed,5,Account Management
+TKT-2026040304,2026-04-09 22:00:00,CUST-6380,Low,Email,5.0,Yes,Closed,4,Technical Support
+TKT-2026040305,2026-04-09 22:00:00,CUST-3296,Medium,Mobile App,10.9,Yes,Closed,5,Network Outage
+TKT-2026040306,2026-04-09 22:15:00,CUST-6268,Medium,Web Portal,54.8,Yes,Escalated,2,Billing & Payment
+TKT-2026040307,2026-04-09 23:15:00,CUST-3191,Urgent,Email,25.6,No,Closed,3,Technical Support
+TKT-2026040308,2026-04-10 03:15:00,CUST-3448,High,Web Portal,6.1,Yes,Closed,3,General Inquiry
+TKT-2026040309,2026-04-10 04:15:00,CUST-5822,Low,Email,14.1,Yes,In Progress,4,Account Management
+TKT-2026040310,2026-04-10 04:30:00,CUST-1926,Medium,Web Portal,18.7,No,Escalated,1,Technical Support
+TKT-2026040311,2026-04-10 04:30:00,CUST-4196,High,Email,12.1,No,Closed,1,Billing & Payment
+TKT-2026040312,2026-04-10 05:30:00,CUST-3870,Medium,Email,23.8,Yes,In Progress,5,Network Outage
+TKT-2026040313,2026-04-10 05:30:00,CUST-1603,Low,Email,19.7,Yes,Closed,4,Technical Support
+TKT-2026040314,2026-04-10 05:45:00,CUST-6898,Low,Mobile App,23.3,Yes,Closed,5,Billing & Payment
+TKT-2026040315,2026-04-10 05:45:00,CUST-6328,Low,Email,4.6,Yes,Closed,3,General Inquiry
+TKT-2026040316,2026-04-10 06:15:00,CUST-2324,Medium,Email,14.2,Yes,Escalated,4,General Inquiry
+TKT-2026040317,2026-04-10 06:15:00,CUST-8648,Low,Email,4.7,Yes,Closed,4,Technical Support
+TKT-2026040318,2026-04-10 07:15:00,CUST-1745,Medium,Web Portal,15.9,Yes,Closed,5,Network Outage
+TKT-2026040319,2026-04-10 07:15:00,CUST-2907,Urgent,Email,9.1,Yes,Closed,3,Account Management
+TKT-2026040320,2026-04-10 07:15:00,CUST-6600,High,Email,12.1,Yes,Closed,4,Billing & Payment
+TKT-2026040321,2026-04-10 08:15:00,CUST-4532,Medium,Web Portal,9.5,Yes,Closed,5,Technical Support
+TKT-2026040322,2026-04-10 08:30:00,CUST-2492,Medium,Email,23.8,Yes,Closed,5,Account Management
+TKT-2026040323,2026-04-10 10:00:00,CUST-9172,High,Email,10.1,Yes,Closed,4,Billing & Payment
+TKT-2026040324,2026-04-10 10:30:00,CUST-7276,Medium,Web Portal,17.4,Yes,Closed,5,Billing & Payment
+TKT-2026040325,2026-04-10 11:00:00,CUST-4816,Medium,Email,49.0,Yes,Closed,2,General Inquiry
+TKT-2026040326,2026-04-10 12:15:00,CUST-8818,Medium,Web Portal,5.1,Yes,In Progress,5,Billing & Payment
+TKT-2026040327,2026-04-10 13:15:00,CUST-7031,Low,Web Portal,25.2,No,Closed,2,Billing & Payment
+TKT-2026040328,2026-04-10 13:30:00,CUST-5048,Medium,Web Portal,24.5,Yes,Closed,5,Technical Support
+TKT-2026040329,2026-04-10 15:15:00,CUST-3084,Medium,Email,64.5,No,Closed,2,Technical Support
+TKT-2026040330,2026-04-10 16:15:00,CUST-6736,Medium,Mobile App,12.1,Yes,Closed,5,Technical Support
+TKT-2026040331,2026-04-10 16:30:00,CUST-1432,High,Email,10.8,Yes,Closed,5,Account Management
+TKT-2026040332,2026-04-10 16:30:00,CUST-1951,Medium,Web Portal,18.5,Yes,Closed,4,Technical Support
+TKT-2026040333,2026-04-10 16:45:00,CUST-7521,Medium,Email,27.7,Yes,Escalated,3,Account Management
+TKT-2026040334,2026-04-10 17:45:00,CUST-4125,Medium,Web Portal,5.8,Yes,Closed,5,Account Management
+TKT-2026040335,2026-04-10 18:45:00,CUST-2750,Urgent,Email,10.6,Yes,Closed,4,Account Management
+TKT-2026040336,2026-04-10 18:45:00,CUST-8551,High,Email,13.8,Yes,In Progress,4,Billing & Payment
+TKT-2026040337,2026-04-10 21:00:00,CUST-2844,Low,Email,19.0,Yes,Closed,4,Network Outage
+TKT-2026040338,2026-04-10 23:15:00,CUST-6339,Medium,Web Portal,7.0,Yes,In Progress,4,Account Management
+TKT-2026040339,2026-04-11 00:30:00,CUST-4311,Medium,Web Portal,8.2,Yes,Closed,5,Account Management
+TKT-2026040340,2026-04-11 00:45:00,CUST-5802,High,Web Portal,14.0,Yes,Closed,4,General Inquiry
+TKT-2026040341,2026-04-11 02:15:00,CUST-3929,Medium,Web Portal,4.1,Yes,Closed,4,Network Outage
+TKT-2026040342,2026-04-11 03:00:00,CUST-1892,Low,Web Portal,36.8,Yes,Escalated,4,Technical Support
+TKT-2026040343,2026-04-11 04:00:00,CUST-2660,Low,Email,24.5,Yes,Closed,4,Account Management
+TKT-2026040344,2026-04-11 04:45:00,CUST-1733,Low,Web Portal,33.8,Yes,Closed,4,Technical Support
+TKT-2026040345,2026-04-11 05:30:00,CUST-1246,High,Email,15.3,Yes,Closed,5,Billing & Payment
+TKT-2026040346,2026-04-11 06:15:00,CUST-6521,Low,Mobile App,6.9,Yes,Closed,5,Account Management
+TKT-2026040347,2026-04-11 06:15:00,CUST-6468,High,Email,14.7,Yes,Closed,4,Account Management
+TKT-2026040348,2026-04-11 06:15:00,CUST-6838,Medium,Web Portal,12.4,Yes,Closed,5,Technical Support
+TKT-2026040349,2026-04-11 06:45:00,CUST-8915,Low,Email,11.5,Yes,Closed,4,Account Management
+TKT-2026040350,2026-04-11 07:00:00,CUST-5706,Urgent,Email,4.9,Yes,Closed,5,Network Outage
+TKT-2026040351,2026-04-11 07:30:00,CUST-5444,Medium,Mobile App,19.5,Yes,Closed,4,Account Management
+TKT-2026040352,2026-04-11 08:30:00,CUST-4968,Medium,Web Portal,6.8,Yes,Closed,5,General Inquiry
+TKT-2026040353,2026-04-11 12:30:00,CUST-2069,Medium,Web Portal,11.7,No,Closed,1,Account Management
+TKT-2026040354,2026-04-11 12:45:00,CUST-3943,Low,Mobile App,9.6,Yes,Escalated,5,Billing & Payment
+TKT-2026040355,2026-04-11 12:45:00,CUST-3230,Medium,Mobile App,10.8,Yes,Closed,5,Network Outage
+TKT-2026040356,2026-04-11 13:30:00,CUST-2840,High,Mobile App,13.1,No,Closed,4,Account Management
+TKT-2026040357,2026-04-11 14:15:00,CUST-9108,Medium,Web Portal,19.1,Yes,Closed,5,Network Outage
+TKT-2026040358,2026-04-11 14:30:00,CUST-9796,Low,Web Portal,8.1,Yes,Closed,5,Network Outage
+TKT-2026040359,2026-04-11 14:45:00,CUST-2286,Medium,Email,9.7,Yes,Closed,5,Billing & Payment
+TKT-2026040360,2026-04-11 15:15:00,CUST-9651,Medium,Web Portal,8.5,Yes,Closed,5,Account Management
+TKT-2026040361,2026-04-11 16:30:00,CUST-5266,Medium,Mobile App,7.9,Yes,Closed,5,Account Management
+TKT-2026040362,2026-04-11 16:45:00,CUST-3025,Medium,Web Portal,41.8,Yes,Closed,4,General Inquiry
+TKT-2026040363,2026-04-11 19:30:00,CUST-5628,Medium,Email,5.1,Yes,Closed,5,Technical Support
+TKT-2026040364,2026-04-11 20:15:00,CUST-4038,Low,Mobile App,12.9,No,Closed,1,Account Management
+TKT-2026040365,2026-04-11 21:15:00,CUST-6138,Low,Web Portal,4.8,Yes,Closed,5,Technical Support
+TKT-2026040366,2026-04-11 21:15:00,CUST-8043,High,Email,10.2,Yes,Closed,4,Billing & Payment
+TKT-2026040367,2026-04-11 21:30:00,CUST-9957,Urgent,Web Portal,8.7,Yes,Closed,5,Network Outage
+TKT-2026040368,2026-04-11 23:45:00,CUST-5213,Low,Mobile App,22.3,Yes,Closed,5,Billing & Payment
+TKT-2026040369,2026-04-11 23:45:00,CUST-7861,Low,Mobile App,27.0,Yes,Closed,4,Network Outage
+TKT-2026040370,2026-04-12 00:45:00,CUST-8502,Medium,Email,29.6,Yes,Closed,3,Account Management
+TKT-2026040371,2026-04-12 02:45:00,CUST-8628,Medium,Web Portal,5.5,Yes,Closed,5,Technical Support
+TKT-2026040372,2026-04-12 04:15:00,CUST-7547,Low,Mobile App,4.6,No,Closed,2,General Inquiry
+TKT-2026040373,2026-04-12 04:30:00,CUST-5741,Urgent,Email,26.1,No,Escalated,1,Technical Support
+TKT-2026040374,2026-04-12 05:00:00,CUST-5024,Low,Email,4.9,No,Closed,1,Network Outage
+TKT-2026040375,2026-04-12 05:30:00,CUST-2062,Low,Web Portal,38.2,Yes,Closed,5,Technical Support
+TKT-2026040376,2026-04-12 06:45:00,CUST-5774,Low,Web Portal,34.6,Yes,In Progress,5,Account Management
+TKT-2026040377,2026-04-12 06:45:00,CUST-2613,Low,Web Portal,9.4,Yes,In Progress,5,Technical Support
+TKT-2026040378,2026-04-12 09:30:00,CUST-4035,Medium,Email,16.6,Yes,Closed,5,Technical Support
+TKT-2026040379,2026-04-12 10:15:00,CUST-3738,Low,Mobile App,6.4,Yes,Closed,5,Technical Support
+TKT-2026040380,2026-04-12 12:30:00,CUST-2851,High,Email,7.7,No,Escalated,3,General Inquiry
+TKT-2026040381,2026-04-12 13:30:00,CUST-3509,Medium,Email,5.4,No,Closed,1,Account Management
+TKT-2026040382,2026-04-12 14:00:00,CUST-7605,Medium,Mobile App,5.7,Yes,Escalated,5,Billing & Payment
+TKT-2026040383,2026-04-12 14:45:00,CUST-1242,High,Web Portal,5.3,No,Closed,1,Account Management
+TKT-2026040384,2026-04-12 17:15:00,CUST-2560,Low,Mobile App,7.6,Yes,Escalated,3,Network Outage
+TKT-2026040385,2026-04-12 18:00:00,CUST-3958,Low,Mobile App,21.6,No,Closed,3,Network Outage
+TKT-2026040386,2026-04-12 18:15:00,CUST-4975,Medium,Email,7.5,No,Closed,2,Technical Support
+TKT-2026040387,2026-04-12 18:30:00,CUST-5425,Low,Email,24.2,Yes,Closed,4,General Inquiry
+TKT-2026040388,2026-04-12 18:45:00,CUST-9455,Low,Mobile App,10.8,Yes,Closed,4,Technical Support
+TKT-2026040389,2026-04-12 19:30:00,CUST-9243,Low,Email,4.8,Yes,Closed,5,Network Outage
+TKT-2026040390,2026-04-12 19:45:00,CUST-8772,Low,Web Portal,28.8,Yes,Closed,5,Technical Support
+TKT-2026040391,2026-04-12 20:00:00,CUST-2567,High,Mobile App,23.2,Yes,Closed,4,Billing & Payment
+TKT-2026040392,2026-04-12 20:00:00,CUST-8042,Low,Mobile App,8.8,Yes,Closed,4,Technical Support
+TKT-2026040393,2026-04-12 20:00:00,CUST-1554,High,Mobile App,11.5,Yes,Closed,4,Billing & Payment
+TKT-2026040394,2026-04-12 20:00:00,CUST-1490,Low,Email,56.4,Yes,Escalated,3,Technical Support
+TKT-2026040395,2026-04-12 21:00:00,CUST-2066,High,Mobile App,16.2,Yes,Closed,4,Billing & Payment
+TKT-2026040396,2026-04-13 00:30:00,CUST-7642,Medium,Email,8.3,Yes,Closed,5,Account Management
+TKT-2026040397,2026-04-13 00:30:00,CUST-8737,High,Web Portal,6.0,Yes,Closed,4,Account Management
+TKT-2026040398,2026-04-13 00:45:00,CUST-8854,Low,Web Portal,9.1,Yes,Closed,5,Technical Support
+TKT-2026040399,2026-04-13 02:00:00,CUST-2302,Low,Web Portal,9.3,No,Closed,3,General Inquiry
+TKT-2026040400,2026-04-13 02:15:00,CUST-7216,Medium,Email,8.2,Yes,Closed,5,Network Outage
+TKT-2026040401,2026-04-13 02:15:00,CUST-6955,Low,Email,30.3,Yes,Closed,3,Network Outage
+TKT-2026040402,2026-04-13 03:45:00,CUST-5285,Low,Email,65.3,Yes,In Progress,3,Billing & Payment
+TKT-2026040403,2026-04-13 04:00:00,CUST-3394,Medium,Web Portal,5.1,Yes,Closed,3,Network Outage
+TKT-2026040404,2026-04-13 05:00:00,CUST-4334,Low,Web Portal,10.8,Yes,Closed,5,Account Management
+TKT-2026040405,2026-04-13 06:30:00,CUST-1284,Low,Email,11.7,No,Closed,2,General Inquiry
+TKT-2026040406,2026-04-13 08:00:00,CUST-6119,Low,Email,12.4,Yes,Closed,4,Network Outage
+TKT-2026040407,2026-04-13 08:45:00,CUST-8191,Low,Web Portal,16.0,Yes,Escalated,5,Technical Support
+TKT-2026040408,2026-04-13 09:00:00,CUST-1376,Medium,Email,25.1,Yes,Closed,5,Account Management
+TKT-2026040409,2026-04-13 13:00:00,CUST-7662,Urgent,Email,11.3,Yes,Closed,4,Account Management
+TKT-2026040410,2026-04-13 15:15:00,CUST-7485,Medium,Web Portal,5.2,Yes,Escalated,5,Network Outage
+TKT-2026040411,2026-04-13 15:30:00,CUST-7047,Medium,Email,19.3,No,Closed,1,Network Outage
+TKT-2026040412,2026-04-13 16:15:00,CUST-4457,Low,Web Portal,40.6,Yes,Closed,5,Billing & Payment
+TKT-2026040413,2026-04-13 17:00:00,CUST-5244,Low,Web Portal,14.6,No,Closed,3,Network Outage
+TKT-2026040414,2026-04-13 18:15:00,CUST-5613,Low,Email,5.1,Yes,Closed,5,Billing & Payment
+TKT-2026040415,2026-04-13 19:15:00,CUST-3603,Low,Email,37.9,Yes,Closed,5,Billing & Payment
+TKT-2026040416,2026-04-13 19:15:00,CUST-8813,High,Email,10.7,Yes,Closed,5,Billing & Payment
+TKT-2026040417,2026-04-13 22:15:00,CUST-5773,Low,Web Portal,39.7,Yes,Closed,5,Network Outage
+TKT-2026040418,2026-04-13 22:30:00,CUST-5071,Medium,Email,12.7,Yes,Closed,5,Account Management
+TKT-2026040419,2026-04-13 23:15:00,CUST-7663,Medium,Email,21.2,Yes,Closed,5,Technical Support
+TKT-2026040420,2026-04-13 23:30:00,CUST-3639,Urgent,Email,17.0,No,Closed,2,Technical Support
+TKT-2026040421,2026-04-13 23:45:00,CUST-6827,Low,Email,10.8,Yes,Closed,5,Technical Support
+TKT-2026040422,2026-04-14 00:30:00,CUST-2207,Low,Email,8.5,No,Closed,1,Technical Support
+TKT-2026040423,2026-04-14 01:30:00,CUST-4786,Low,Email,54.1,Yes,Closed,1,Technical Support
+TKT-2026040424,2026-04-14 02:00:00,CUST-2793,Medium,Mobile App,13.6,Yes,In Progress,5,Technical Support
+TKT-2026040425,2026-04-14 02:00:00,CUST-7707,Medium,Email,6.1,No,Closed,2,Network Outage
+TKT-2026040426,2026-04-14 04:00:00,CUST-7418,High,Web Portal,8.3,Yes,Closed,4,Account Management
+TKT-2026040427,2026-04-14 04:00:00,CUST-9185,Medium,Email,11.6,Yes,Escalated,5,Technical Support
+TKT-2026040428,2026-04-14 05:00:00,CUST-8612,Low,Mobile App,4.7,Yes,In Progress,4,Billing & Payment
+TKT-2026040429,2026-04-14 05:30:00,CUST-7773,Medium,Web Portal,11.8,Yes,Closed,5,Billing & Payment
+TKT-2026040430,2026-04-14 05:30:00,CUST-8792,Low,Email,30.0,Yes,Closed,5,General Inquiry
+TKT-2026040431,2026-04-14 07:00:00,CUST-2209,Low,Email,8.0,Yes,Closed,5,Network Outage
+TKT-2026040432,2026-04-14 08:00:00,CUST-9714,Low,Web Portal,11.1,Yes,Closed,5,Billing & Payment
+TKT-2026040433,2026-04-14 08:30:00,CUST-3537,High,Email,18.8,Yes,In Progress,5,Billing & Payment
+TKT-2026040434,2026-04-14 08:30:00,CUST-8057,High,Email,42.4,No,In Progress,3,Billing & Payment
+TKT-2026040435,2026-04-14 08:30:00,CUST-8224,High,Web Portal,39.7,Yes,Closed,4,General Inquiry
+TKT-2026040436,2026-04-14 09:45:00,CUST-6186,High,Web Portal,11.4,Yes,Closed,5,General Inquiry
+TKT-2026040437,2026-04-14 10:00:00,CUST-6637,Medium,Email,32.0,Yes,Closed,4,Technical Support
+TKT-2026040438,2026-04-14 10:15:00,CUST-2961,High,Web Portal,15.6,Yes,Closed,3,Billing & Payment
+TKT-2026040439,2026-04-14 10:45:00,CUST-6575,Medium,Email,28.6,Yes,Closed,5,Technical Support
+TKT-2026040440,2026-04-14 11:15:00,CUST-6628,Low,Web Portal,35.6,Yes,Closed,4,Billing & Payment
+TKT-2026040441,2026-04-14 11:15:00,CUST-3843,Urgent,Email,11.0,Yes,Closed,5,Account Management
+TKT-2026040442,2026-04-14 12:00:00,CUST-8050,Low,Web Portal,6.0,No,Closed,1,Technical Support
+TKT-2026040443,2026-04-14 14:00:00,CUST-2077,Medium,Web Portal,7.7,No,Closed,2,Network Outage
+TKT-2026040444,2026-04-14 15:15:00,CUST-7442,Low,Email,48.9,Yes,Closed,3,Account Management
+TKT-2026040445,2026-04-14 15:15:00,CUST-4838,High,Email,11.6,Yes,Escalated,5,Billing & Payment
+TKT-2026040446,2026-04-14 15:30:00,CUST-9888,Medium,Web Portal,23.2,Yes,Closed,4,Billing & Payment
+TKT-2026040447,2026-04-14 16:00:00,CUST-2117,High,Mobile App,82.2,No,Closed,1,Technical Support
+TKT-2026040448,2026-04-14 17:00:00,CUST-3354,Low,Mobile App,4.8,Yes,Closed,4,Technical Support
+TKT-2026040449,2026-04-14 17:00:00,CUST-4986,Low,Web Portal,25.0,Yes,Closed,4,Technical Support
+TKT-2026040450,2026-04-14 17:45:00,CUST-6049,Medium,Email,12.6,Yes,Closed,5,Technical Support
+TKT-2026040451,2026-04-14 18:00:00,CUST-9207,Low,Email,13.2,Yes,Closed,3,Network Outage
+TKT-2026040452,2026-04-14 18:15:00,CUST-7883,Low,Email,24.0,No,Closed,4,Network Outage
+TKT-2026040453,2026-04-14 20:00:00,CUST-2438,High,Email,49.3,Yes,Escalated,1,General Inquiry
+TKT-2026040454,2026-04-14 21:30:00,CUST-3576,High,Web Portal,38.2,No,In Progress,1,Technical Support
+TKT-2026040455,2026-04-14 22:15:00,CUST-2924,Medium,Email,18.8,Yes,Closed,5,Network Outage
+TKT-2026040456,2026-04-15 01:15:00,CUST-1227,Low,Web Portal,16.1,Yes,Closed,5,Billing & Payment
+TKT-2026040457,2026-04-15 05:30:00,CUST-3514,Low,Email,33.5,Yes,Closed,4,Billing & Payment
+TKT-2026040458,2026-04-15 07:00:00,CUST-7739,Low,Email,10.0,Yes,Closed,5,Network Outage
+TKT-2026040459,2026-04-15 07:15:00,CUST-8700,Low,Web Portal,10.3,Yes,Escalated,4,Network Outage
+TKT-2026040460,2026-04-15 08:00:00,CUST-7960,Medium,Mobile App,11.9,Yes,Closed,5,Network Outage
+TKT-2026040461,2026-04-15 10:45:00,CUST-8831,Low,Email,15.8,Yes,In Progress,5,Account Management
+TKT-2026040462,2026-04-15 11:00:00,CUST-3400,Low,Email,14.3,Yes,Closed,4,Billing & Payment
+TKT-2026040463,2026-04-15 11:45:00,CUST-8791,Medium,Mobile App,33.1,Yes,Closed,4,Network Outage
+TKT-2026040464,2026-04-15 12:00:00,CUST-3717,Medium,Web Portal,6.2,Yes,Closed,5,Account Management
+TKT-2026040465,2026-04-15 12:15:00,CUST-4925,High,Email,18.6,Yes,Escalated,5,Billing & Payment
+TKT-2026040466,2026-04-15 16:15:00,CUST-9239,Low,Web Portal,18.5,Yes,Closed,5,Account Management
+TKT-2026040467,2026-04-15 17:00:00,CUST-9180,High,Web Portal,14.6,Yes,Closed,4,Network Outage
+TKT-2026040468,2026-04-15 18:30:00,CUST-4600,Low,Email,8.2,Yes,Closed,5,Technical Support
+TKT-2026040469,2026-04-15 19:00:00,CUST-6036,Low,Email,21.5,Yes,Escalated,4,Network Outage
+TKT-2026040470,2026-04-15 19:00:00,CUST-6054,Medium,Mobile App,17.1,Yes,Escalated,4,Account Management
+TKT-2026040471,2026-04-15 19:45:00,CUST-2894,Low,Email,12.7,Yes,Closed,5,Account Management
+TKT-2026040472,2026-04-15 21:00:00,CUST-1645,Medium,Email,13.2,Yes,In Progress,5,Billing & Payment
+TKT-2026040473,2026-04-15 22:00:00,CUST-1390,High,Email,12.8,No,Escalated,1,Technical Support
+TKT-2026040474,2026-04-15 22:45:00,CUST-6949,Low,Mobile App,37.9,No,Closed,1,Technical Support
+TKT-2026040475,2026-04-16 00:45:00,CUST-7618,Urgent,Email,35.5,No,In Progress,2,Technical Support
+TKT-2026040476,2026-04-16 02:30:00,CUST-4621,Medium,Web Portal,17.2,Yes,Closed,5,Technical Support
+TKT-2026040477,2026-04-16 02:30:00,CUST-8186,Medium,Web Portal,8.2,Yes,Closed,5,Technical Support
+TKT-2026040478,2026-04-16 03:00:00,CUST-8981,Medium,Email,40.9,Yes,Closed,5,Network Outage
+TKT-2026040479,2026-04-16 04:00:00,CUST-5806,Urgent,Mobile App,29.4,Yes,Closed,4,Network Outage
+TKT-2026040480,2026-04-16 05:15:00,CUST-6772,Urgent,Email,42.0,No,Closed,2,Account Management
+TKT-2026040481,2026-04-16 05:30:00,CUST-2666,High,Email,14.7,Yes,Closed,4,Technical Support
+TKT-2026040482,2026-04-16 05:30:00,CUST-4760,High,Mobile App,10.6,Yes,Closed,5,Account Management
+TKT-2026040483,2026-04-16 06:00:00,CUST-2261,Urgent,Web Portal,4.9,Yes,Closed,4,Billing & Payment
+TKT-2026040484,2026-04-16 07:00:00,CUST-5360,Low,Web Portal,4.5,Yes,In Progress,5,Technical Support
+TKT-2026040485,2026-04-16 07:00:00,CUST-3450,Medium,Web Portal,9.0,Yes,Closed,4,Billing & Payment
+TKT-2026040486,2026-04-16 07:30:00,CUST-4481,Medium,Email,6.2,Yes,Escalated,5,Billing & Payment
+TKT-2026040487,2026-04-16 08:00:00,CUST-9641,Medium,Mobile App,20.1,Yes,Closed,5,Technical Support
+TKT-2026040488,2026-04-16 08:00:00,CUST-2250,Urgent,Web Portal,12.8,No,Closed,3,Technical Support
+TKT-2026040489,2026-04-16 09:00:00,CUST-4048,Medium,Email,16.6,Yes,In Progress,4,Billing & Payment
+TKT-2026040490,2026-04-16 09:15:00,CUST-7458,High,Email,14.8,Yes,Closed,4,Billing & Payment
+TKT-2026040491,2026-04-16 10:15:00,CUST-8358,Low,Email,5.0,No,Closed,2,Billing & Payment
+TKT-2026040492,2026-04-16 10:30:00,CUST-5265,Low,Email,4.6,No,Closed,1,Network Outage
+TKT-2026040493,2026-04-16 10:45:00,CUST-7918,Low,Web Portal,48.4,Yes,Escalated,1,Technical Support
+TKT-2026040494,2026-04-16 12:15:00,CUST-2184,Medium,Email,5.8,Yes,Closed,5,Billing & Payment
+TKT-2026040495,2026-04-16 12:30:00,CUST-4492,Medium,Email,6.8,Yes,Closed,4,Technical Support
+TKT-2026040496,2026-04-16 13:30:00,CUST-6135,Medium,Web Portal,5.5,Yes,In Progress,4,General Inquiry
+TKT-2026040497,2026-04-16 14:30:00,CUST-9357,Low,Email,4.1,Yes,Closed,4,Billing & Payment
+TKT-2026040498,2026-04-16 14:45:00,CUST-5363,Low,Web Portal,18.6,Yes,Escalated,5,Network Outage
+TKT-2026040499,2026-04-16 16:45:00,CUST-9841,High,Mobile App,4.7,Yes,Closed,4,Billing & Payment
+TKT-2026040500,2026-04-16 18:00:00,CUST-1072,Low,Web Portal,10.8,Yes,Closed,5,Technical Support
+TKT-2026040501,2026-04-16 18:00:00,CUST-6783,Low,Web Portal,18.1,Yes,Closed,5,Network Outage
+TKT-2026040502,2026-04-16 18:00:00,CUST-9447,Medium,Web Portal,9.0,Yes,Closed,5,Technical Support
+TKT-2026040503,2026-04-16 20:15:00,CUST-2416,Low,Email,5.9,Yes,Closed,5,Billing & Payment
+TKT-2026040504,2026-04-16 21:00:00,CUST-6066,Low,Web Portal,5.8,Yes,Closed,5,General Inquiry
+TKT-2026040505,2026-04-16 21:00:00,CUST-2364,Low,Email,35.3,Yes,Closed,4,Network Outage
+TKT-2026040506,2026-04-16 22:15:00,CUST-1682,Low,Web Portal,10.0,Yes,Closed,5,Account Management
+TKT-2026040507,2026-04-16 22:15:00,CUST-2694,Medium,Email,13.4,No,Closed,2,Technical Support
+TKT-2026040508,2026-04-16 23:30:00,CUST-8759,Medium,Web Portal,7.9,Yes,In Progress,5,Account Management
+TKT-2026040509,2026-04-17 01:00:00,CUST-3381,Low,Mobile App,4.2,Yes,Closed,5,Billing & Payment
+TKT-2026040510,2026-04-17 01:30:00,CUST-4001,Urgent,Web Portal,55.3,No,Escalated,1,Technical Support
+TKT-2026040511,2026-04-17 01:30:00,CUST-9412,High,Email,21.9,Yes,Closed,3,General Inquiry
+TKT-2026040512,2026-04-17 03:15:00,CUST-2039,Urgent,Mobile App,13.8,No,Escalated,2,Technical Support
+TKT-2026040513,2026-04-17 03:45:00,CUST-3118,Urgent,Mobile App,24.7,Yes,Closed,5,Billing & Payment
+TKT-2026040514,2026-04-17 03:45:00,CUST-1676,High,Web Portal,30.9,Yes,Closed,4,Technical Support
+TKT-2026040515,2026-04-17 05:45:00,CUST-1111,Low,Email,38.3,Yes,Closed,4,Billing & Payment
+TKT-2026040516,2026-04-17 07:30:00,CUST-9377,Medium,Email,4.7,No,Closed,1,Technical Support
+TKT-2026040517,2026-04-17 08:00:00,CUST-9227,Low,Email,6.6,No,Closed,1,Account Management
+TKT-2026040518,2026-04-17 08:30:00,CUST-8976,High,Web Portal,7.7,Yes,Closed,5,Billing & Payment
+TKT-2026040519,2026-04-17 09:00:00,CUST-3587,High,Email,6.7,Yes,Closed,5,Network Outage
+TKT-2026040520,2026-04-17 09:00:00,CUST-1647,Low,Mobile App,14.1,Yes,In Progress,5,General Inquiry
+TKT-2026040521,2026-04-17 09:30:00,CUST-4827,Urgent,Web Portal,6.3,Yes,In Progress,5,Billing & Payment
+TKT-2026040522,2026-04-17 09:45:00,CUST-8559,High,Web Portal,15.0,Yes,Closed,5,General Inquiry
+TKT-2026040523,2026-04-17 10:00:00,CUST-9747,Low,Email,8.5,Yes,In Progress,5,Technical Support
+TKT-2026040524,2026-04-17 10:45:00,CUST-7312,Low,Email,4.7,Yes,Closed,3,Technical Support
+TKT-2026040525,2026-04-17 11:15:00,CUST-9060,Low,Email,8.4,Yes,Closed,5,Billing & Payment
+TKT-2026040526,2026-04-17 12:00:00,CUST-7031,Medium,Email,33.2,No,Closed,1,Technical Support
+TKT-2026040527,2026-04-17 13:15:00,CUST-4638,Low,Mobile App,11.0,Yes,Closed,4,Billing & Payment
+TKT-2026040528,2026-04-17 13:15:00,CUST-9493,Low,Email,15.6,Yes,Closed,5,Account Management
+TKT-2026040529,2026-04-17 13:45:00,CUST-6015,Low,Web Portal,6.5,Yes,Closed,5,Network Outage
+TKT-2026040530,2026-04-17 14:15:00,CUST-6373,High,Web Portal,4.2,No,Closed,1,Network Outage
+TKT-2026040531,2026-04-17 14:30:00,CUST-4536,Low,Email,17.9,Yes,Escalated,4,Billing & Payment
+TKT-2026040532,2026-04-17 15:15:00,CUST-2402,Low,Email,15.3,Yes,Closed,4,Technical Support
+TKT-2026040533,2026-04-17 15:15:00,CUST-6503,High,Email,52.9,Yes,In Progress,2,Technical Support
+TKT-2026040534,2026-04-17 15:30:00,CUST-7372,Medium,Web Portal,30.3,No,Escalated,2,General Inquiry
+TKT-2026040535,2026-04-17 15:45:00,CUST-2015,Low,Email,12.1,Yes,In Progress,5,Account Management
+TKT-2026040536,2026-04-17 16:30:00,CUST-7047,Medium,Web Portal,37.0,Yes,Closed,5,Billing & Payment
+TKT-2026040537,2026-04-17 17:45:00,CUST-6348,Low,Email,4.4,Yes,Escalated,5,Technical Support
+TKT-2026040538,2026-04-17 18:15:00,CUST-2933,Medium,Email,71.4,Yes,Closed,3,Billing & Payment
+TKT-2026040539,2026-04-17 18:15:00,CUST-7846,High,Web Portal,5.5,Yes,In Progress,4,General Inquiry
+TKT-2026040540,2026-04-17 18:30:00,CUST-1870,Low,Email,13.2,Yes,Escalated,5,Account Management
+TKT-2026040541,2026-04-17 18:30:00,CUST-6080,Urgent,Email,12.8,Yes,Closed,5,Network Outage
+TKT-2026040542,2026-04-17 18:45:00,CUST-2344,High,Web Portal,44.9,No,Closed,1,Technical Support
+TKT-2026040543,2026-04-17 19:00:00,CUST-7744,Medium,Web Portal,6.3,Yes,In Progress,5,Account Management
+TKT-2026040544,2026-04-17 19:30:00,CUST-3552,Low,Mobile App,13.8,No,Closed,2,Billing & Payment
+TKT-2026040545,2026-04-17 19:45:00,CUST-9298,Low,Email,31.7,No,Closed,2,Account Management
+TKT-2026040546,2026-04-17 20:15:00,CUST-6785,Low,Web Portal,24.5,Yes,Closed,5,Technical Support
+TKT-2026040547,2026-04-17 20:30:00,CUST-9920,Urgent,Web Portal,9.8,Yes,Escalated,5,Billing & Payment
+TKT-2026040548,2026-04-17 20:30:00,CUST-4878,Low,Email,8.1,No,In Progress,2,Account Management
+TKT-2026040549,2026-04-17 21:45:00,CUST-1407,Medium,Email,5.8,Yes,Closed,5,Technical Support
+TKT-2026040550,2026-04-17 22:45:00,CUST-5200,Medium,Email,10.7,Yes,Closed,4,Account Management
+TKT-2026040551,2026-04-17 22:45:00,CUST-9303,Low,Mobile App,17.6,Yes,Closed,5,Billing & Payment
+TKT-2026040552,2026-04-17 23:00:00,CUST-2617,Medium,Email,18.7,Yes,Escalated,5,Network Outage
+TKT-2026040553,2026-04-18 00:30:00,CUST-4474,Low,Web Portal,5.0,No,Closed,1,Billing & Payment
+TKT-2026040554,2026-04-18 01:30:00,CUST-7789,Medium,Email,36.6,Yes,In Progress,4,Billing & Payment
+TKT-2026040555,2026-04-18 01:30:00,CUST-7168,Medium,Mobile App,27.3,No,Closed,2,Network Outage
+TKT-2026040556,2026-04-18 04:00:00,CUST-9239,Medium,Email,6.6,Yes,Escalated,3,Billing & Payment
+TKT-2026040557,2026-04-18 05:45:00,CUST-7769,Urgent,Mobile App,11.2,Yes,Closed,3,Network Outage
+TKT-2026040558,2026-04-18 06:00:00,CUST-3810,Low,Web Portal,5.8,Yes,Closed,4,Account Management
+TKT-2026040559,2026-04-18 06:00:00,CUST-9019,Medium,Email,39.0,No,Closed,1,Billing & Payment
+TKT-2026040560,2026-04-18 08:45:00,CUST-2926,Low,Web Portal,17.9,Yes,Closed,4,Technical Support
+TKT-2026040561,2026-04-18 09:30:00,CUST-2403,Medium,Web Portal,16.4,Yes,Closed,3,Account Management
+TKT-2026040562,2026-04-18 10:00:00,CUST-7104,Medium,Web Portal,14.1,Yes,Closed,4,Network Outage
+TKT-2026040563,2026-04-18 10:15:00,CUST-4588,Low,Email,4.6,Yes,Closed,4,Account Management
+TKT-2026040564,2026-04-18 10:15:00,CUST-1666,Low,Email,10.9,Yes,Closed,5,Technical Support
+TKT-2026040565,2026-04-18 10:30:00,CUST-1792,High,Email,25.3,Yes,Closed,5,Billing & Payment
+TKT-2026040566,2026-04-18 11:00:00,CUST-1608,Low,Mobile App,45.2,No,Closed,4,Technical Support
+TKT-2026040567,2026-04-18 12:30:00,CUST-3816,Medium,Email,5.3,Yes,Closed,3,Account Management
+TKT-2026040568,2026-04-18 13:15:00,CUST-7026,High,Web Portal,16.3,No,Closed,1,Network Outage
+TKT-2026040569,2026-04-18 14:00:00,CUST-4860,Medium,Web Portal,5.3,Yes,Closed,4,Billing & Payment
+TKT-2026040570,2026-04-18 14:00:00,CUST-1239,Medium,Web Portal,47.8,No,Closed,1,Technical Support
+TKT-2026040571,2026-04-18 14:15:00,CUST-7601,Low,Email,13.1,Yes,Closed,5,Technical Support
+TKT-2026040572,2026-04-18 16:15:00,CUST-8977,Urgent,Mobile App,7.4,Yes,Closed,3,Billing & Payment
+TKT-2026040573,2026-04-18 16:15:00,CUST-8229,Low,Email,9.6,Yes,Closed,5,Technical Support
+TKT-2026040574,2026-04-18 16:30:00,CUST-5477,High,Email,75.8,No,Escalated,2,Technical Support
+TKT-2026040575,2026-04-18 16:45:00,CUST-8002,Urgent,Mobile App,5.2,No,Closed,1,Network Outage
+TKT-2026040576,2026-04-18 17:45:00,CUST-7126,Low,Email,34.0,Yes,Closed,5,Network Outage
+TKT-2026040577,2026-04-18 18:45:00,CUST-8956,Low,Web Portal,5.9,Yes,In Progress,4,Billing & Payment
+TKT-2026040578,2026-04-18 19:15:00,CUST-7231,Urgent,Web Portal,10.9,Yes,In Progress,4,Billing & Payment
+TKT-2026040579,2026-04-18 20:00:00,CUST-4323,High,Email,24.1,Yes,Closed,4,Account Management
+TKT-2026040580,2026-04-18 20:30:00,CUST-4458,High,Email,22.6,Yes,Closed,5,Billing & Payment
+TKT-2026040581,2026-04-18 22:15:00,CUST-5070,Low,Web Portal,9.6,No,Closed,3,Account Management
+TKT-2026040582,2026-04-18 23:00:00,CUST-1527,Urgent,Email,26.8,Yes,Closed,5,Technical Support
+TKT-2026040583,2026-04-18 23:30:00,CUST-1234,Low,Email,43.6,Yes,Escalated,5,Technical Support
+TKT-2026040584,2026-04-18 23:30:00,CUST-1066,Low,Email,35.8,No,Closed,1,Billing & Payment
+TKT-2026040585,2026-04-18 23:45:00,CUST-7819,High,Email,15.9,No,Escalated,1,Technical Support
+TKT-2026040586,2026-04-19 01:00:00,CUST-9457,Low,Email,6.2,Yes,Closed,4,Account Management
+TKT-2026040587,2026-04-19 01:30:00,CUST-8424,Low,Email,7.0,Yes,Closed,5,Technical Support
+TKT-2026040588,2026-04-19 02:00:00,CUST-4661,High,Web Portal,9.5,Yes,Closed,5,Billing & Payment
+TKT-2026040589,2026-04-19 03:00:00,CUST-9970,Medium,Email,5.2,Yes,Closed,4,Technical Support
+TKT-2026040590,2026-04-19 03:45:00,CUST-2005,High,Web Portal,4.5,Yes,Closed,4,Billing & Payment
+TKT-2026040591,2026-04-19 05:45:00,CUST-3203,Low,Web Portal,28.2,Yes,In Progress,5,Billing & Payment
+TKT-2026040592,2026-04-19 07:45:00,CUST-4433,High,Web Portal,30.5,Yes,In Progress,5,Account Management
+TKT-2026040593,2026-04-19 09:30:00,CUST-9619,Low,Email,27.6,Yes,Closed,5,Billing & Payment
+TKT-2026040594,2026-04-19 13:30:00,CUST-7190,Low,Email,43.1,Yes,Closed,5,Account Management
+TKT-2026040595,2026-04-19 14:00:00,CUST-3716,Medium,Web Portal,11.4,Yes,Closed,4,Account Management
+TKT-2026040596,2026-04-19 14:00:00,CUST-6381,Medium,Email,33.9,Yes,Closed,5,Network Outage
+TKT-2026040597,2026-04-19 14:00:00,CUST-1056,High,Web Portal,6.3,Yes,Closed,3,Billing & Payment
+TKT-2026040598,2026-04-19 14:15:00,CUST-6498,High,Web Portal,33.7,No,Closed,2,Technical Support
+TKT-2026040599,2026-04-19 15:15:00,CUST-6969,Low,Email,11.8,Yes,Closed,4,Technical Support
+TKT-2026040600,2026-04-19 15:30:00,CUST-1050,High,Email,12.0,Yes,Closed,5,Billing & Payment
+TKT-2026040601,2026-04-19 16:30:00,CUST-3898,Medium,Email,71.5,Yes,Closed,1,Technical Support
+TKT-2026040602,2026-04-19 17:00:00,CUST-7456,Medium,Mobile App,18.7,Yes,Escalated,4,Account Management
+TKT-2026040603,2026-04-19 18:00:00,CUST-1331,Low,Email,16.3,No,Closed,2,Technical Support
+TKT-2026040604,2026-04-19 18:15:00,CUST-6827,High,Email,23.6,Yes,Escalated,4,Technical Support
+TKT-2026040605,2026-04-19 18:30:00,CUST-8904,Medium,Web Portal,5.7,Yes,In Progress,5,Technical Support
+TKT-2026040606,2026-04-19 18:30:00,CUST-1998,High,Email,36.6,No,Escalated,1,Technical Support
+TKT-2026040607,2026-04-19 18:45:00,CUST-2186,Medium,Email,16.4,No,Closed,2,Network Outage
+TKT-2026040608,2026-04-19 20:45:00,CUST-5522,Low,Email,25.3,Yes,Closed,5,Technical Support
+TKT-2026040609,2026-04-19 21:00:00,CUST-8154,Low,Email,18.1,Yes,In Progress,4,Account Management
+TKT-2026040610,2026-04-19 22:15:00,CUST-9028,High,Email,12.6,No,Closed,1,Technical Support
+TKT-2026040611,2026-04-20 00:45:00,CUST-7673,Low,Email,12.9,No,Closed,2,Billing & Payment
+TKT-2026040612,2026-04-20 01:15:00,CUST-9248,Low,Email,6.8,No,In Progress,2,Account Management
+TKT-2026040613,2026-04-20 03:45:00,CUST-7223,Medium,Web Portal,25.5,Yes,Closed,4,Technical Support
+TKT-2026040614,2026-04-20 03:45:00,CUST-6701,Low,Web Portal,8.0,Yes,Closed,4,Billing & Payment
+TKT-2026040615,2026-04-20 05:30:00,CUST-3851,Low,Web Portal,9.5,Yes,Closed,4,Account Management
+TKT-2026040616,2026-04-20 05:45:00,CUST-2349,Medium,Mobile App,17.1,Yes,Closed,5,Technical Support
+TKT-2026040617,2026-04-20 06:15:00,CUST-8130,Urgent,Email,28.0,No,Closed,1,Technical Support
+TKT-2026040618,2026-04-20 06:15:00,CUST-3006,High,Email,19.4,Yes,Closed,5,Billing & Payment
+TKT-2026040619,2026-04-20 06:15:00,CUST-6666,Medium,Email,37.9,No,Closed,3,Billing & Payment
+TKT-2026040620,2026-04-20 06:15:00,CUST-9328,Medium,Web Portal,51.1,No,Closed,1,Technical Support
+TKT-2026040621,2026-04-20 06:30:00,CUST-2538,Urgent,Web Portal,6.4,Yes,Closed,4,Billing & Payment
+TKT-2026040622,2026-04-20 07:15:00,CUST-1837,Medium,Mobile App,24.4,Yes,Closed,3,Technical Support
+TKT-2026040623,2026-04-20 07:15:00,CUST-7473,Low,Web Portal,28.1,Yes,Closed,5,Billing & Payment
+TKT-2026040624,2026-04-20 07:45:00,CUST-5383,High,Web Portal,13.1,Yes,Escalated,4,Account Management
+TKT-2026040625,2026-04-20 09:30:00,CUST-3094,High,Email,93.9,No,Escalated,4,Technical Support
+TKT-2026040626,2026-04-20 09:30:00,CUST-1064,Medium,Email,23.6,Yes,In Progress,4,Technical Support
+TKT-2026040627,2026-04-20 10:15:00,CUST-7427,Low,Email,23.6,Yes,Closed,5,General Inquiry
+TKT-2026040628,2026-04-20 13:30:00,CUST-6593,High,Email,13.6,Yes,Closed,3,Billing & Payment
+TKT-2026040629,2026-04-20 14:15:00,CUST-9703,Medium,Mobile App,5.6,No,Escalated,2,General Inquiry
+TKT-2026040630,2026-04-20 14:30:00,CUST-1986,High,Web Portal,12.2,No,Escalated,1,Billing & Payment
+TKT-2026040631,2026-04-20 15:15:00,CUST-5425,Urgent,Email,27.4,No,Escalated,1,Technical Support
+TKT-2026040632,2026-04-20 16:45:00,CUST-7483,Medium,Web Portal,25.0,Yes,Closed,5,Technical Support
+TKT-2026040633,2026-04-20 17:30:00,CUST-4969,Low,Mobile App,17.7,Yes,Closed,3,Technical Support
+TKT-2026040634,2026-04-20 18:30:00,CUST-1365,Low,Web Portal,18.8,No,In Progress,1,Technical Support
+TKT-2026040635,2026-04-20 18:45:00,CUST-8058,High,Email,32.4,Yes,In Progress,4,Billing & Payment
+TKT-2026040636,2026-04-20 19:15:00,CUST-2131,Low,Web Portal,9.7,Yes,Closed,4,Billing & Payment
+TKT-2026040637,2026-04-20 23:00:00,CUST-4023,Low,Web Portal,17.7,Yes,Closed,5,Technical Support
+TKT-2026040638,2026-04-21 01:30:00,CUST-7592,High,Email,5.8,Yes,Closed,5,Billing & Payment
+TKT-2026040639,2026-04-21 02:15:00,CUST-2530,Low,Email,26.1,Yes,Closed,5,Account Management
+TKT-2026040640,2026-04-21 03:00:00,CUST-2580,High,Email,10.7,Yes,Closed,4,Account Management
+TKT-2026040641,2026-04-21 03:45:00,CUST-8618,Low,Web Portal,13.9,Yes,In Progress,5,Billing & Payment
+TKT-2026040642,2026-04-21 04:15:00,CUST-9925,Medium,Email,8.0,Yes,In Progress,5,Network Outage
+TKT-2026040643,2026-04-21 04:15:00,CUST-1883,High,Email,44.0,No,Closed,3,Technical Support
+TKT-2026040644,2026-04-21 04:15:00,CUST-8072,Low,Email,33.5,Yes,Closed,4,Technical Support
+TKT-2026040645,2026-04-21 04:45:00,CUST-7015,Low,Email,31.9,Yes,Closed,5,General Inquiry
+TKT-2026040646,2026-04-21 05:15:00,CUST-1362,Low,Web Portal,13.9,Yes,Closed,5,Network Outage
+TKT-2026040647,2026-04-21 05:15:00,CUST-1248,Medium,Web Portal,26.7,Yes,In Progress,4,Technical Support
+TKT-2026040648,2026-04-21 06:30:00,CUST-6232,Low,Mobile App,18.4,Yes,Closed,3,Billing & Payment
+TKT-2026040649,2026-04-21 07:30:00,CUST-3200,High,Email,14.9,No,Closed,4,Account Management
+TKT-2026040650,2026-04-21 08:15:00,CUST-5918,Medium,Web Portal,18.4,Yes,Closed,5,Technical Support
+TKT-2026040651,2026-04-21 10:15:00,CUST-7754,High,Email,30.3,No,Escalated,2,Technical Support
+TKT-2026040652,2026-04-21 12:00:00,CUST-2484,Medium,Web Portal,4.7,Yes,Closed,5,Technical Support
+TKT-2026040653,2026-04-21 12:15:00,CUST-3860,Low,Web Portal,18.8,Yes,Closed,5,Network Outage
+TKT-2026040654,2026-04-21 16:45:00,CUST-2345,Medium,Web Portal,16.3,No,Closed,1,Technical Support
+TKT-2026040655,2026-04-21 18:15:00,CUST-2347,Urgent,Email,29.9,No,In Progress,3,Account Management
+TKT-2026040656,2026-04-21 19:00:00,CUST-6599,Low,Web Portal,43.9,Yes,Closed,5,Billing & Payment
+TKT-2026040657,2026-04-21 19:30:00,CUST-4743,Low,Web Portal,7.1,Yes,Closed,4,Technical Support
+TKT-2026040658,2026-04-21 20:15:00,CUST-8183,Urgent,Web Portal,32.2,Yes,Closed,5,Network Outage
+TKT-2026040659,2026-04-21 21:00:00,CUST-1780,Urgent,Web Portal,26.0,No,Escalated,2,Account Management
+TKT-2026040660,2026-04-21 21:15:00,CUST-1396,High,Email,25.6,No,Closed,1,Billing & Payment
+TKT-2026040661,2026-04-21 21:30:00,CUST-2497,Low,Web Portal,20.6,No,Closed,1,Billing & Payment
+TKT-2026040662,2026-04-21 22:15:00,CUST-1686,Low,Mobile App,18.2,No,Closed,3,Technical Support
+TKT-2026040663,2026-04-22 00:00:00,CUST-8452,Medium,Web Portal,13.6,No,Closed,2,General Inquiry
+TKT-2026040664,2026-04-22 00:00:00,CUST-3649,High,Web Portal,11.2,No,Closed,2,Account Management
+TKT-2026040665,2026-04-22 01:00:00,CUST-8444,Medium,Web Portal,39.9,Yes,Escalated,4,Technical Support
+TKT-2026040666,2026-04-22 03:00:00,CUST-5957,High,Email,43.5,Yes,Closed,4,Billing & Payment
+TKT-2026040667,2026-04-22 03:30:00,CUST-2190,Low,Web Portal,29.2,No,Closed,4,Network Outage
+TKT-2026040668,2026-04-22 05:15:00,CUST-1250,Medium,Email,5.6,No,Closed,2,Billing & Payment
+TKT-2026040669,2026-04-22 05:30:00,CUST-4086,Medium,Email,8.9,Yes,Closed,4,General Inquiry
+TKT-2026040670,2026-04-22 06:15:00,CUST-2585,Urgent,Web Portal,6.5,Yes,Closed,5,Billing & Payment
+TKT-2026040671,2026-04-22 06:30:00,CUST-8921,High,Email,41.0,No,Escalated,2,Technical Support
+TKT-2026040672,2026-04-22 06:45:00,CUST-8216,Low,Email,10.4,Yes,Closed,4,General Inquiry
+TKT-2026040673,2026-04-22 08:15:00,CUST-9571,Medium,Email,14.4,Yes,Closed,4,Network Outage
+TKT-2026040674,2026-04-22 08:15:00,CUST-8101,Low,Web Portal,5.3,Yes,Closed,5,Technical Support
+TKT-2026040675,2026-04-22 09:00:00,CUST-9624,Low,Mobile App,5.3,No,Closed,3,Billing & Payment
+TKT-2026040676,2026-04-22 09:30:00,CUST-2871,Medium,Email,4.8,Yes,Closed,4,Technical Support
+TKT-2026040677,2026-04-22 10:00:00,CUST-3989,Medium,Email,7.2,Yes,Closed,3,Network Outage
+TKT-2026040678,2026-04-22 10:30:00,CUST-8632,Medium,Web Portal,24.0,Yes,Closed,4,General Inquiry
+TKT-2026040679,2026-04-22 11:00:00,CUST-3153,Medium,Email,25.3,No,Escalated,4,Network Outage
+TKT-2026040680,2026-04-22 11:30:00,CUST-8246,Low,Email,21.4,Yes,In Progress,5,General Inquiry
+TKT-2026040681,2026-04-22 11:45:00,CUST-8313,Low,Email,26.9,No,Escalated,1,General Inquiry
+TKT-2026040682,2026-04-22 12:45:00,CUST-1980,High,Web Portal,11.0,No,Closed,1,Billing & Payment
+TKT-2026040683,2026-04-22 13:15:00,CUST-7951,Low,Email,30.3,Yes,Closed,5,Account Management
+TKT-2026040684,2026-04-22 14:30:00,CUST-3202,Urgent,Email,18.5,Yes,Closed,5,Billing & Payment
+TKT-2026040685,2026-04-22 15:45:00,CUST-5994,High,Web Portal,10.4,Yes,Closed,5,Account Management
+TKT-2026040686,2026-04-22 17:00:00,CUST-3086,Low,Web Portal,19.8,Yes,Closed,4,General Inquiry
+TKT-2026040687,2026-04-22 17:45:00,CUST-7816,Medium,Web Portal,4.6,No,Closed,2,Technical Support
+TKT-2026040688,2026-04-22 18:00:00,CUST-6414,Low,Web Portal,20.8,Yes,In Progress,5,Account Management
+TKT-2026040689,2026-04-22 19:00:00,CUST-5469,Low,Mobile App,18.5,Yes,In Progress,5,Network Outage
+TKT-2026040690,2026-04-22 19:00:00,CUST-1912,High,Email,58.2,No,Closed,2,Technical Support
+TKT-2026040691,2026-04-22 19:15:00,CUST-4061,Low,Email,32.5,No,Closed,1,Network Outage
+TKT-2026040692,2026-04-22 19:30:00,CUST-1554,Low,Web Portal,7.1,Yes,In Progress,5,Network Outage
+TKT-2026040693,2026-04-22 19:30:00,CUST-1216,High,Email,19.2,Yes,Closed,4,Billing & Payment
+TKT-2026040694,2026-04-22 20:00:00,CUST-4355,High,Email,25.1,Yes,Closed,4,Billing & Payment
+TKT-2026040695,2026-04-22 20:00:00,CUST-6842,Medium,Mobile App,21.0,Yes,In Progress,5,Network Outage
+TKT-2026040696,2026-04-22 20:15:00,CUST-2376,Low,Email,19.2,Yes,Closed,3,Billing & Payment
+TKT-2026040697,2026-04-22 20:15:00,CUST-6735,Medium,Web Portal,15.8,Yes,Closed,4,Network Outage
+TKT-2026040698,2026-04-22 21:00:00,CUST-3981,Medium,Email,8.3,Yes,Closed,5,Technical Support
+TKT-2026040699,2026-04-22 21:15:00,CUST-8271,Low,Email,10.6,Yes,Closed,5,Network Outage
+TKT-2026040700,2026-04-22 22:30:00,CUST-6752,Low,Mobile App,27.4,No,Closed,2,Billing & Payment
+TKT-2026040701,2026-04-23 00:00:00,CUST-6023,Medium,Email,7.2,No,Escalated,3,Network Outage
+TKT-2026040702,2026-04-23 01:15:00,CUST-6908,Medium,Email,9.1,Yes,Closed,4,General Inquiry
+TKT-2026040703,2026-04-23 02:30:00,CUST-5755,Medium,Email,27.0,Yes,In Progress,5,Technical Support
+TKT-2026040704,2026-04-23 03:15:00,CUST-7742,High,Email,69.4,Yes,In Progress,2,Technical Support
+TKT-2026040705,2026-04-23 04:45:00,CUST-8071,High,Email,23.2,No,In Progress,1,Technical Support
+TKT-2026040706,2026-04-23 07:30:00,CUST-8020,Medium,Email,9.2,Yes,Closed,5,Billing & Payment
+TKT-2026040707,2026-04-23 08:00:00,CUST-5155,Medium,Web Portal,11.2,Yes,Closed,4,General Inquiry
+TKT-2026040708,2026-04-23 08:30:00,CUST-8271,Low,Email,28.0,Yes,Closed,5,Account Management
+TKT-2026040709,2026-04-23 10:15:00,CUST-6292,High,Email,33.0,Yes,Closed,4,Network Outage
+TKT-2026040710,2026-04-23 10:15:00,CUST-4172,Low,Mobile App,6.8,Yes,Closed,5,Technical Support
+TKT-2026040711,2026-04-23 10:30:00,CUST-5503,Low,Web Portal,34.4,Yes,In Progress,5,Technical Support
+TKT-2026040712,2026-04-23 11:15:00,CUST-9237,Low,Mobile App,25.9,Yes,Closed,4,Billing & Payment
+TKT-2026040713,2026-04-23 11:45:00,CUST-5724,Low,Web Portal,24.0,No,Closed,1,Network Outage
+TKT-2026040714,2026-04-23 13:00:00,CUST-5267,Low,Email,5.0,Yes,Closed,3,Billing & Payment
+TKT-2026040715,2026-04-23 13:30:00,CUST-5473,Medium,Email,4.8,No,Closed,2,Network Outage
+TKT-2026040716,2026-04-23 14:30:00,CUST-8632,Low,Mobile App,9.2,Yes,Closed,4,Technical Support
+TKT-2026040717,2026-04-23 15:00:00,CUST-7288,Medium,Mobile App,6.8,Yes,Closed,5,Billing & Payment
+TKT-2026040718,2026-04-23 15:30:00,CUST-2778,Low,Email,4.1,Yes,Closed,3,General Inquiry
+TKT-2026040719,2026-04-23 18:15:00,CUST-6727,Low,Mobile App,10.0,Yes,Closed,5,Technical Support
+TKT-2026040720,2026-04-23 19:15:00,CUST-9759,Low,Web Portal,45.3,Yes,Closed,3,Billing & Payment
+TKT-2026040721,2026-04-23 20:00:00,CUST-2881,High,Email,65.9,No,Escalated,1,Technical Support
+TKT-2026040722,2026-04-23 20:30:00,CUST-7582,Low,Web Portal,42.3,Yes,Closed,3,Technical Support
+TKT-2026040723,2026-04-23 21:00:00,CUST-1586,Medium,Email,8.5,Yes,Escalated,5,Billing & Payment
+TKT-2026040724,2026-04-23 21:15:00,CUST-7900,Urgent,Mobile App,30.4,Yes,Closed,4,Account Management
+TKT-2026040725,2026-04-23 21:15:00,CUST-5104,Low,Web Portal,5.1,Yes,Closed,5,General Inquiry
+TKT-2026040726,2026-04-23 21:45:00,CUST-9450,Medium,Email,9.8,Yes,Closed,3,Network Outage
+TKT-2026040727,2026-04-23 22:15:00,CUST-7801,Medium,Mobile App,44.1,Yes,Closed,5,Billing & Payment
+TKT-2026040728,2026-04-23 23:00:00,CUST-5955,High,Web Portal,16.2,No,Closed,3,Billing & Payment
+TKT-2026040729,2026-04-24 00:00:00,CUST-5892,High,Email,9.9,Yes,Closed,5,General Inquiry
+TKT-2026040730,2026-04-24 00:00:00,CUST-7190,High,Mobile App,8.5,No,Escalated,2,Billing & Payment
+TKT-2026040731,2026-04-24 00:15:00,CUST-5667,Medium,Web Portal,10.1,Yes,In Progress,5,Technical Support
+TKT-2026040732,2026-04-24 02:30:00,CUST-2046,Urgent,Email,29.4,No,Escalated,1,Technical Support
+TKT-2026040733,2026-04-24 02:45:00,CUST-6938,Low,Web Portal,5.2,No,Closed,3,Account Management
+TKT-2026040734,2026-04-24 03:15:00,CUST-8177,Medium,Mobile App,26.7,Yes,Closed,5,Account Management
+TKT-2026040735,2026-04-24 04:15:00,CUST-8490,Medium,Web Portal,13.9,Yes,Closed,4,Billing & Payment
+TKT-2026040736,2026-04-24 05:00:00,CUST-1292,High,Web Portal,6.2,Yes,In Progress,4,Account Management
+TKT-2026040737,2026-04-24 05:00:00,CUST-5713,Medium,Web Portal,23.3,Yes,Closed,3,Network Outage
+TKT-2026040738,2026-04-24 09:15:00,CUST-3692,Low,Email,11.9,Yes,Closed,5,Technical Support
+TKT-2026040739,2026-04-24 09:45:00,CUST-5709,Medium,Web Portal,12.6,Yes,In Progress,5,Technical Support
+TKT-2026040740,2026-04-24 10:30:00,CUST-6783,Medium,Web Portal,6.2,Yes,Closed,4,Technical Support
+TKT-2026040741,2026-04-24 11:30:00,CUST-1592,High,Email,31.8,No,Closed,2,Technical Support
+TKT-2026040742,2026-04-24 12:00:00,CUST-9993,Medium,Web Portal,22.8,Yes,In Progress,3,Billing & Payment
+TKT-2026040743,2026-04-24 14:00:00,CUST-1130,Medium,Email,7.2,Yes,Closed,5,Technical Support
+TKT-2026040744,2026-04-24 14:30:00,CUST-6755,Medium,Web Portal,18.7,Yes,Closed,4,Billing & Payment
+TKT-2026040745,2026-04-24 15:00:00,CUST-4391,Medium,Email,39.0,No,Escalated,1,Account Management
+TKT-2026040746,2026-04-24 15:15:00,CUST-2714,High,Web Portal,6.7,Yes,Closed,4,Account Management
+TKT-2026040747,2026-04-24 16:00:00,CUST-4135,High,Web Portal,12.9,Yes,Closed,3,Account Management
+TKT-2026040748,2026-04-24 16:45:00,CUST-3410,Urgent,Web Portal,5.9,Yes,Closed,5,Account Management
+TKT-2026040749,2026-04-24 19:00:00,CUST-5053,Medium,Web Portal,33.2,Yes,Closed,5,Account Management
+TKT-2026040750,2026-04-24 19:00:00,CUST-9253,Medium,Mobile App,8.3,Yes,Escalated,4,Network Outage
+TKT-2026040751,2026-04-24 20:00:00,CUST-1595,Low,Email,5.5,Yes,Closed,5,General Inquiry
+TKT-2026040752,2026-04-24 20:30:00,CUST-7230,Low,Email,6.9,Yes,Closed,3,Technical Support
+TKT-2026040753,2026-04-25 00:00:00,CUST-7354,Medium,Web Portal,8.0,Yes,Closed,5,Billing & Payment
+TKT-2026040754,2026-04-25 00:00:00,CUST-9622,Medium,Web Portal,7.2,Yes,Closed,5,Technical Support
+TKT-2026040755,2026-04-25 01:00:00,CUST-8405,Low,Web Portal,6.0,Yes,Closed,5,Network Outage
+TKT-2026040756,2026-04-25 02:15:00,CUST-2790,High,Web Portal,11.5,No,Closed,1,General Inquiry
+TKT-2026040757,2026-04-25 03:00:00,CUST-9254,Medium,Email,32.9,Yes,Closed,5,Billing & Payment
+TKT-2026040758,2026-04-25 03:15:00,CUST-6167,Medium,Email,30.4,Yes,Closed,5,Technical Support
+TKT-2026040759,2026-04-25 03:30:00,CUST-3949,Low,Web Portal,8.7,No,Closed,2,Billing & Payment
+TKT-2026040760,2026-04-25 05:15:00,CUST-2419,Medium,Email,4.6,No,Closed,1,Technical Support
+TKT-2026040761,2026-04-25 06:45:00,CUST-2282,Medium,Web Portal,76.7,Yes,In Progress,4,Network Outage
+TKT-2026040762,2026-04-25 07:00:00,CUST-1308,Low,Email,21.3,Yes,Escalated,4,Technical Support
+TKT-2026040763,2026-04-25 07:15:00,CUST-4130,Medium,Web Portal,4.2,Yes,Closed,5,Billing & Payment
+TKT-2026040764,2026-04-25 07:45:00,CUST-2287,Urgent,Web Portal,5.1,Yes,Closed,3,Billing & Payment
+TKT-2026040765,2026-04-25 08:00:00,CUST-4981,Low,Web Portal,5.2,No,Closed,2,Technical Support
+TKT-2026040766,2026-04-25 08:30:00,CUST-8272,Low,Web Portal,55.6,Yes,Closed,2,Account Management
+TKT-2026040767,2026-04-25 09:15:00,CUST-1756,Low,Mobile App,20.0,Yes,Closed,5,Billing & Payment
+TKT-2026040768,2026-04-25 09:15:00,CUST-9354,Medium,Web Portal,22.3,Yes,Closed,5,Account Management
+TKT-2026040769,2026-04-25 11:15:00,CUST-4505,Medium,Email,24.6,Yes,Closed,3,General Inquiry
+TKT-2026040770,2026-04-25 11:30:00,CUST-3542,Medium,Web Portal,19.9,Yes,Closed,5,Billing & Payment
+TKT-2026040771,2026-04-25 11:45:00,CUST-6148,High,Web Portal,5.8,No,Closed,1,Billing & Payment
+TKT-2026040772,2026-04-25 13:15:00,CUST-8936,Medium,Email,5.7,Yes,Closed,5,Account Management
+TKT-2026040773,2026-04-25 13:15:00,CUST-2620,High,Email,11.1,No,Closed,1,Account Management
+TKT-2026040774,2026-04-25 14:00:00,CUST-9951,Medium,Email,17.5,Yes,Closed,4,Technical Support
+TKT-2026040775,2026-04-25 14:00:00,CUST-7071,High,Email,4.4,Yes,Escalated,5,Network Outage
+TKT-2026040776,2026-04-25 15:00:00,CUST-1435,High,Email,27.9,Yes,Closed,3,Account Management
+TKT-2026040777,2026-04-25 15:00:00,CUST-7318,Low,Web Portal,66.5,Yes,Closed,1,Billing & Payment
+TKT-2026040778,2026-04-25 15:45:00,CUST-5588,High,Mobile App,9.8,Yes,Closed,5,Billing & Payment
+TKT-2026040779,2026-04-25 16:45:00,CUST-4440,Medium,Web Portal,19.1,No,Closed,1,General Inquiry
+TKT-2026040780,2026-04-25 18:00:00,CUST-9133,High,Email,19.8,No,Closed,1,Billing & Payment
+TKT-2026040781,2026-04-25 18:15:00,CUST-1384,Low,Email,7.3,Yes,Closed,5,Network Outage
+TKT-2026040782,2026-04-25 19:30:00,CUST-4744,Medium,Email,12.2,Yes,Closed,5,Technical Support
+TKT-2026040783,2026-04-25 20:00:00,CUST-7652,Medium,Web Portal,6.5,Yes,In Progress,4,Network Outage
+TKT-2026040784,2026-04-25 20:00:00,CUST-2349,Urgent,Mobile App,58.7,No,Closed,3,Technical Support
+TKT-2026040785,2026-04-25 21:15:00,CUST-9109,Medium,Email,6.0,Yes,Closed,5,General Inquiry
+TKT-2026040786,2026-04-25 22:15:00,CUST-8095,Low,Web Portal,4.2,Yes,Closed,5,Network Outage
+TKT-2026040787,2026-04-25 22:30:00,CUST-8758,High,Web Portal,5.3,Yes,Closed,5,Account Management
+TKT-2026040788,2026-04-25 22:45:00,CUST-5043,Medium,Email,7.1,Yes,Escalated,5,Technical Support
+TKT-2026040789,2026-04-25 23:30:00,CUST-3772,Low,Email,11.9,No,Closed,4,Billing & Payment
+TKT-2026040790,2026-04-26 00:15:00,CUST-2536,High,Web Portal,41.6,Yes,Closed,5,Account Management
+TKT-2026040791,2026-04-26 02:15:00,CUST-8526,Low,Email,16.6,Yes,Closed,4,Account Management
+TKT-2026040792,2026-04-26 03:00:00,CUST-2723,Low,Web Portal,18.4,Yes,Closed,5,Network Outage
+TKT-2026040793,2026-04-26 04:00:00,CUST-1269,Low,Mobile App,14.1,Yes,In Progress,5,Technical Support
+TKT-2026040794,2026-04-26 05:15:00,CUST-7058,High,Email,11.9,No,In Progress,1,Billing & Payment
+TKT-2026040795,2026-04-26 05:30:00,CUST-9964,Low,Email,5.3,Yes,In Progress,5,Billing & Payment
+TKT-2026040796,2026-04-26 06:00:00,CUST-6208,Low,Web Portal,11.1,No,Closed,3,Technical Support
+TKT-2026040797,2026-04-26 06:00:00,CUST-6432,Low,Web Portal,16.2,Yes,Closed,5,Account Management
+TKT-2026040798,2026-04-26 07:00:00,CUST-5212,Medium,Email,10.4,Yes,Closed,4,Billing & Payment
+TKT-2026040799,2026-04-26 08:00:00,CUST-4934,Medium,Web Portal,5.2,Yes,Closed,5,Network Outage
+TKT-2026040800,2026-04-26 08:00:00,CUST-9876,Medium,Mobile App,6.6,Yes,Closed,4,Network Outage
+TKT-2026040801,2026-04-26 09:00:00,CUST-1020,Medium,Email,13.0,Yes,Escalated,4,Network Outage
+TKT-2026040802,2026-04-26 09:00:00,CUST-5852,Medium,Mobile App,39.1,Yes,Closed,4,Technical Support
+TKT-2026040803,2026-04-26 10:30:00,CUST-9576,Low,Mobile App,9.6,Yes,Closed,5,Account Management
+TKT-2026040804,2026-04-26 10:30:00,CUST-1977,High,Email,4.9,No,Closed,1,General Inquiry
+TKT-2026040805,2026-04-26 11:00:00,CUST-4578,Low,Email,5.4,Yes,Closed,5,Technical Support
+TKT-2026040806,2026-04-26 11:45:00,CUST-8805,Medium,Web Portal,6.0,No,Closed,1,Account Management
+TKT-2026040807,2026-04-26 12:30:00,CUST-5194,Medium,Web Portal,9.1,Yes,Closed,3,Technical Support
+TKT-2026040808,2026-04-26 13:00:00,CUST-5874,Low,Mobile App,21.5,Yes,Closed,5,Billing & Payment
+TKT-2026040809,2026-04-26 13:15:00,CUST-1657,High,Web Portal,7.9,Yes,Closed,5,Network Outage
+TKT-2026040810,2026-04-26 14:15:00,CUST-4229,Medium,Email,12.9,Yes,Closed,3,Technical Support
+TKT-2026040811,2026-04-26 14:30:00,CUST-1921,Medium,Web Portal,37.4,No,Escalated,1,Billing & Payment
+TKT-2026040812,2026-04-26 16:45:00,CUST-7541,Low,Email,5.2,Yes,Closed,5,General Inquiry
+TKT-2026040813,2026-04-26 16:45:00,CUST-7610,Urgent,Web Portal,24.3,No,Closed,1,Account Management
+TKT-2026040814,2026-04-26 17:30:00,CUST-4217,Medium,Email,4.7,Yes,Closed,4,Billing & Payment
+TKT-2026040815,2026-04-26 17:30:00,CUST-1853,Medium,Web Portal,17.2,Yes,In Progress,4,Network Outage
+TKT-2026040816,2026-04-26 17:45:00,CUST-4737,High,Web Portal,8.3,Yes,Closed,5,Billing & Payment
+TKT-2026040817,2026-04-26 18:00:00,CUST-8403,Low,Web Portal,25.0,No,Escalated,1,Technical Support
+TKT-2026040818,2026-04-26 18:45:00,CUST-7891,Medium,Email,5.4,Yes,Closed,5,General Inquiry
+TKT-2026040819,2026-04-26 20:15:00,CUST-8925,Low,Web Portal,9.8,Yes,Closed,5,Billing & Payment
+TKT-2026040820,2026-04-26 21:30:00,CUST-3907,Low,Email,12.4,Yes,Closed,4,Technical Support
+TKT-2026040821,2026-04-26 21:45:00,CUST-2611,Medium,Email,21.6,Yes,In Progress,5,Account Management
+TKT-2026040822,2026-04-26 22:15:00,CUST-3073,Medium,Email,6.6,Yes,Closed,5,Account Management
+TKT-2026040823,2026-04-26 22:45:00,CUST-2693,High,Email,13.5,Yes,Closed,5,Account Management
+TKT-2026040824,2026-04-27 00:45:00,CUST-8683,High,Email,9.9,Yes,Closed,5,Account Management
+TKT-2026040825,2026-04-27 02:30:00,CUST-7850,Medium,Email,22.0,Yes,Closed,5,Technical Support
+TKT-2026040826,2026-04-27 03:30:00,CUST-9274,Low,Mobile App,7.0,Yes,Closed,5,Billing & Payment
+TKT-2026040827,2026-04-27 03:45:00,CUST-2079,Urgent,Mobile App,6.5,Yes,Closed,5,Account Management
+TKT-2026040828,2026-04-27 03:45:00,CUST-8501,Low,Web Portal,7.3,No,Closed,1,Account Management
+TKT-2026040829,2026-04-27 04:15:00,CUST-8550,Urgent,Email,56.9,No,Closed,1,Billing & Payment
+TKT-2026040830,2026-04-27 04:30:00,CUST-6479,High,Email,17.2,Yes,Closed,4,General Inquiry
+TKT-2026040831,2026-04-27 05:00:00,CUST-6342,Low,Mobile App,6.1,Yes,Closed,4,Network Outage
+TKT-2026040832,2026-04-27 05:00:00,CUST-8996,High,Email,10.0,Yes,Closed,5,Billing & Payment
+TKT-2026040833,2026-04-27 06:15:00,CUST-6457,Low,Email,33.9,Yes,In Progress,3,Technical Support
+TKT-2026040834,2026-04-27 06:45:00,CUST-6394,Low,Web Portal,7.6,Yes,Closed,4,Technical Support
+TKT-2026040835,2026-04-27 06:45:00,CUST-7746,Medium,Email,11.5,Yes,Closed,5,Billing & Payment
+TKT-2026040836,2026-04-27 07:00:00,CUST-9329,Urgent,Web Portal,15.0,Yes,Closed,4,Technical Support
+TKT-2026040837,2026-04-27 07:00:00,CUST-5140,Low,Email,8.6,Yes,Closed,4,Billing & Payment
+TKT-2026040838,2026-04-27 08:15:00,CUST-7778,Low,Mobile App,37.3,No,Closed,2,General Inquiry
+TKT-2026040839,2026-04-27 08:30:00,CUST-7620,Low,Mobile App,21.1,Yes,Closed,3,Billing & Payment
+TKT-2026040840,2026-04-27 09:00:00,CUST-6003,High,Email,5.5,Yes,In Progress,5,Billing & Payment
+TKT-2026040841,2026-04-27 10:15:00,CUST-3625,Low,Email,34.2,Yes,In Progress,5,Account Management
+TKT-2026040842,2026-04-27 11:15:00,CUST-2068,Low,Web Portal,10.1,Yes,Closed,5,Network Outage
+TKT-2026040843,2026-04-27 11:30:00,CUST-5633,Low,Web Portal,24.3,Yes,Closed,5,Technical Support
+TKT-2026040844,2026-04-27 12:00:00,CUST-2459,Low,Web Portal,56.1,Yes,Closed,3,Billing & Payment
+TKT-2026040845,2026-04-27 12:15:00,CUST-8264,Low,Email,10.8,Yes,Closed,5,General Inquiry
+TKT-2026040846,2026-04-27 12:15:00,CUST-1469,Urgent,Web Portal,39.2,No,Closed,2,Technical Support
+TKT-2026040847,2026-04-27 14:30:00,CUST-7789,High,Web Portal,6.3,Yes,Escalated,5,Account Management
+TKT-2026040848,2026-04-27 15:15:00,CUST-7907,Medium,Email,6.3,Yes,Closed,4,Technical Support
+TKT-2026040849,2026-04-27 17:00:00,CUST-6265,Low,Web Portal,11.5,No,Escalated,1,Account Management
+TKT-2026040850,2026-04-27 17:15:00,CUST-4962,Low,Web Portal,7.1,Yes,Closed,4,General Inquiry
+TKT-2026040851,2026-04-27 17:45:00,CUST-2286,Medium,Email,19.3,Yes,Closed,5,Billing & Payment
+TKT-2026040852,2026-04-27 18:00:00,CUST-3101,Low,Email,4.3,Yes,Closed,4,Account Management
+TKT-2026040853,2026-04-27 18:30:00,CUST-6559,Urgent,Email,11.3,Yes,Closed,5,General Inquiry
+TKT-2026040854,2026-04-27 19:30:00,CUST-9477,Low,Email,8.8,Yes,In Progress,5,Billing & Payment
+TKT-2026040855,2026-04-27 19:30:00,CUST-3037,Low,Web Portal,8.6,Yes,Closed,5,Account Management
+TKT-2026040856,2026-04-27 20:30:00,CUST-6457,High,Web Portal,49.0,Yes,Closed,2,Account Management
+TKT-2026040857,2026-04-27 21:30:00,CUST-7119,High,Email,21.9,No,Closed,2,Technical Support
+TKT-2026040858,2026-04-27 21:30:00,CUST-8837,Medium,Email,9.3,Yes,Closed,5,Billing & Payment
+TKT-2026040859,2026-04-27 22:15:00,CUST-6127,Medium,Web Portal,78.5,Yes,Closed,2,Network Outage
+TKT-2026040860,2026-04-27 22:45:00,CUST-3283,Low,Email,11.1,Yes,Closed,5,Billing & Payment
+TKT-2026040861,2026-04-27 22:45:00,CUST-8844,Low,Email,49.9,Yes,In Progress,2,Account Management
+TKT-2026040862,2026-04-27 23:45:00,CUST-9803,Low,Email,25.6,Yes,Closed,5,Billing & Payment
+TKT-2026040863,2026-04-28 00:00:00,CUST-8157,Low,Email,10.5,Yes,Closed,4,Account Management
+TKT-2026040864,2026-04-28 00:15:00,CUST-5640,Low,Email,17.4,No,Closed,1,Technical Support
+TKT-2026040865,2026-04-28 00:30:00,CUST-9713,High,Web Portal,53.0,No,Closed,1,Technical Support
+TKT-2026040866,2026-04-28 00:45:00,CUST-7210,Medium,Email,24.5,Yes,In Progress,5,Billing & Payment
+TKT-2026040867,2026-04-28 01:30:00,CUST-9537,Medium,Web Portal,12.1,No,Closed,1,Network Outage
+TKT-2026040868,2026-04-28 03:00:00,CUST-6259,Medium,Web Portal,36.7,Yes,Escalated,5,Network Outage
+TKT-2026040869,2026-04-28 03:15:00,CUST-6865,Medium,Email,7.4,Yes,Escalated,5,Technical Support
+TKT-2026040870,2026-04-28 04:45:00,CUST-7241,Low,Email,16.2,No,Closed,2,Billing & Payment
+TKT-2026040871,2026-04-28 06:15:00,CUST-3184,Urgent,Web Portal,10.8,Yes,Closed,5,Network Outage
+TKT-2026040872,2026-04-28 06:15:00,CUST-9046,Low,Mobile App,8.5,Yes,In Progress,5,Account Management
+TKT-2026040873,2026-04-28 06:30:00,CUST-6916,Low,Web Portal,23.1,Yes,Closed,5,Technical Support
+TKT-2026040874,2026-04-28 07:00:00,CUST-2459,Low,Web Portal,29.9,Yes,Closed,3,Account Management
+TKT-2026040875,2026-04-28 07:30:00,CUST-7335,High,Web Portal,10.7,Yes,Closed,4,Billing & Payment
+TKT-2026040876,2026-04-28 08:30:00,CUST-9870,Low,Email,8.1,Yes,In Progress,5,Technical Support
+TKT-2026040877,2026-04-28 10:15:00,CUST-1853,Low,Email,14.5,Yes,Closed,5,Account Management
+TKT-2026040878,2026-04-28 13:00:00,CUST-5207,Urgent,Web Portal,8.5,Yes,Closed,4,Billing & Payment
+TKT-2026040879,2026-04-28 13:15:00,CUST-4733,Low,Email,7.0,Yes,Closed,4,Technical Support
+TKT-2026040880,2026-04-28 13:30:00,CUST-4404,Medium,Mobile App,27.9,Yes,Closed,4,Account Management
+TKT-2026040881,2026-04-28 14:15:00,CUST-4014,Low,Email,18.1,Yes,Closed,5,Technical Support
+TKT-2026040882,2026-04-28 14:45:00,CUST-2435,Medium,Email,9.7,Yes,Closed,5,General Inquiry
+TKT-2026040883,2026-04-28 15:30:00,CUST-4364,Medium,Email,14.7,Yes,Escalated,4,Billing & Payment
+TKT-2026040884,2026-04-28 15:30:00,CUST-8647,Low,Email,4.4,No,Closed,1,Technical Support
+TKT-2026040885,2026-04-28 16:45:00,CUST-3711,Medium,Email,4.3,No,Closed,2,General Inquiry
+TKT-2026040886,2026-04-28 17:15:00,CUST-2618,Urgent,Email,48.0,Yes,In Progress,4,Technical Support
+TKT-2026040887,2026-04-28 18:30:00,CUST-8807,Low,Web Portal,8.5,Yes,Closed,3,General Inquiry
+TKT-2026040888,2026-04-28 20:00:00,CUST-9701,Low,Email,5.0,No,Closed,2,Billing & Payment
+TKT-2026040889,2026-04-28 21:45:00,CUST-3607,Low,Email,34.4,No,Closed,1,Technical Support
+TKT-2026040890,2026-04-28 22:00:00,CUST-7864,Low,Web Portal,30.2,No,Closed,2,Network Outage
+TKT-2026040891,2026-04-28 23:30:00,CUST-2144,Low,Mobile App,24.2,No,Closed,1,Billing & Payment
+TKT-2026040892,2026-04-28 23:30:00,CUST-3805,Medium,Web Portal,14.1,Yes,Closed,5,Billing & Payment
+TKT-2026040893,2026-04-29 00:45:00,CUST-4386,Medium,Email,29.7,Yes,Closed,5,Account Management
+TKT-2026040894,2026-04-29 03:15:00,CUST-3400,Medium,Web Portal,7.8,No,Closed,2,Account Management
+TKT-2026040895,2026-04-29 03:30:00,CUST-2743,Medium,Email,5.5,No,In Progress,3,Network Outage
+TKT-2026040896,2026-04-29 04:45:00,CUST-9467,Medium,Email,14.4,No,Escalated,2,Technical Support
+TKT-2026040897,2026-04-29 06:15:00,CUST-7111,Low,Mobile App,8.6,Yes,Closed,4,Billing & Payment
+TKT-2026040898,2026-04-29 07:15:00,CUST-2114,High,Web Portal,6.2,No,Closed,1,General Inquiry
+TKT-2026040899,2026-04-29 07:15:00,CUST-2145,High,Email,23.3,Yes,Closed,3,Network Outage
+TKT-2026040900,2026-04-29 07:15:00,CUST-1574,High,Email,35.9,No,Closed,1,Technical Support
+TKT-2026040901,2026-04-29 07:45:00,CUST-3572,Medium,Web Portal,44.7,Yes,In Progress,5,Billing & Payment
+TKT-2026040902,2026-04-29 08:45:00,CUST-8899,High,Web Portal,8.6,No,Closed,2,General Inquiry
+TKT-2026040903,2026-04-29 09:00:00,CUST-7304,Urgent,Email,29.0,No,Escalated,1,Technical Support
+TKT-2026040904,2026-04-29 09:15:00,CUST-5621,Low,Email,76.4,Yes,In Progress,2,General Inquiry
+TKT-2026040905,2026-04-29 09:45:00,CUST-9726,Low,Email,33.5,Yes,Closed,3,Account Management
+TKT-2026040906,2026-04-29 11:45:00,CUST-2286,Urgent,Web Portal,39.3,No,Closed,3,Billing & Payment
+TKT-2026040907,2026-04-29 12:00:00,CUST-6628,High,Email,29.6,No,Closed,1,Technical Support
+TKT-2026040908,2026-04-29 13:45:00,CUST-7224,Urgent,Mobile App,9.0,No,In Progress,1,Billing & Payment
+TKT-2026040909,2026-04-29 16:15:00,CUST-9988,Low,Email,71.3,Yes,Closed,1,General Inquiry
+TKT-2026040910,2026-04-29 16:45:00,CUST-5961,Low,Mobile App,10.1,No,Closed,1,Billing & Payment
+TKT-2026040911,2026-04-29 16:45:00,CUST-6371,Medium,Mobile App,67.9,Yes,Closed,1,Account Management
+TKT-2026040912,2026-04-29 19:30:00,CUST-6656,Urgent,Email,53.6,Yes,In Progress,2,Technical Support
+TKT-2026040913,2026-04-29 20:00:00,CUST-8769,Medium,Web Portal,25.7,Yes,Closed,5,Technical Support
+TKT-2026040914,2026-04-29 21:00:00,CUST-9303,Low,Email,31.3,Yes,Closed,5,Billing & Payment
+TKT-2026040915,2026-04-29 21:00:00,CUST-7189,Low,Web Portal,6.0,Yes,Closed,5,Technical Support
+TKT-2026040916,2026-04-29 21:45:00,CUST-9130,Urgent,Email,99.9,Yes,Closed,1,Technical Support
+TKT-2026040917,2026-04-29 23:00:00,CUST-9326,Medium,Email,14.6,Yes,Closed,5,Technical Support
+TKT-2026040918,2026-04-29 23:45:00,CUST-2968,High,Web Portal,6.5,Yes,Escalated,4,Account Management
+TKT-2026040919,2026-04-30 00:45:00,CUST-1935,Low,Web Portal,14.2,Yes,Closed,3,Technical Support
+TKT-2026040920,2026-04-30 02:15:00,CUST-8300,Low,Web Portal,79.0,Yes,Closed,1,Billing & Payment
+TKT-2026040921,2026-04-30 03:15:00,CUST-6851,High,Email,63.9,No,Closed,1,Technical Support
+TKT-2026040922,2026-04-30 03:30:00,CUST-5852,Medium,Web Portal,43.8,Yes,Closed,5,Network Outage
+TKT-2026040923,2026-04-30 03:30:00,CUST-3535,High,Email,12.4,Yes,Closed,5,Network Outage
+TKT-2026040924,2026-04-30 05:30:00,CUST-1521,Low,Email,6.3,Yes,Closed,5,Account Management
+TKT-2026040925,2026-04-30 05:30:00,CUST-4749,Urgent,Mobile App,12.0,Yes,Closed,5,Billing & Payment
+TKT-2026040926,2026-04-30 05:45:00,CUST-2979,Low,Web Portal,12.8,Yes,Closed,5,Network Outage
+TKT-2026040927,2026-04-30 07:45:00,CUST-7890,Medium,Email,8.5,Yes,Closed,4,Technical Support
+TKT-2026040928,2026-04-30 08:00:00,CUST-6044,High,Web Portal,15.9,Yes,In Progress,5,Billing & Payment
+TKT-2026040929,2026-04-30 09:00:00,CUST-3127,High,Email,66.5,No,Closed,2,Technical Support
+TKT-2026040930,2026-04-30 09:15:00,CUST-6989,Low,Web Portal,13.9,Yes,Closed,4,Technical Support
+TKT-2026040931,2026-04-30 09:30:00,CUST-8293,High,Mobile App,31.5,Yes,Closed,3,General Inquiry
+TKT-2026040932,2026-04-30 09:45:00,CUST-2012,Medium,Email,44.8,Yes,Closed,4,General Inquiry
+TKT-2026040933,2026-04-30 09:45:00,CUST-8860,Medium,Email,25.8,Yes,Closed,5,General Inquiry
+TKT-2026040934,2026-04-30 10:00:00,CUST-4279,Medium,Mobile App,17.6,No,Closed,1,Account Management
+TKT-2026040935,2026-04-30 10:00:00,CUST-2890,Low,Web Portal,24.0,Yes,Closed,4,Network Outage
+TKT-2026040936,2026-04-30 12:00:00,CUST-3907,High,Web Portal,12.3,Yes,Closed,4,Network Outage
+TKT-2026040937,2026-04-30 13:00:00,CUST-4114,High,Web Portal,52.1,Yes,Escalated,1,Technical Support
+TKT-2026040938,2026-04-30 14:15:00,CUST-2109,Low,Web Portal,17.3,Yes,Closed,4,Technical Support
+TKT-2026040939,2026-04-30 14:45:00,CUST-4319,Low,Email,20.4,Yes,Closed,3,Billing & Payment
+TKT-2026040940,2026-04-30 15:00:00,CUST-2327,High,Email,77.9,Yes,In Progress,1,Billing & Payment
+TKT-2026040941,2026-04-30 15:00:00,CUST-6729,Medium,Email,25.9,Yes,Closed,5,Billing & Payment
+TKT-2026040942,2026-04-30 16:45:00,CUST-6234,Medium,Email,34.4,No,Closed,2,Billing & Payment
+TKT-2026040943,2026-04-30 17:30:00,CUST-6790,Low,Email,25.7,No,Closed,1,Billing & Payment
+TKT-2026040944,2026-04-30 17:45:00,CUST-3046,Low,Web Portal,8.1,Yes,Escalated,4,Account Management
+TKT-2026040945,2026-04-30 17:45:00,CUST-6276,Medium,Email,23.7,Yes,Closed,5,Billing & Payment
+TKT-2026040946,2026-04-30 18:30:00,CUST-4042,Medium,Mobile App,6.1,Yes,Closed,5,Technical Support
+TKT-2026040947,2026-04-30 19:15:00,CUST-6888,High,Mobile App,97.0,No,Closed,3,Technical Support
+TKT-2026040948,2026-04-30 19:30:00,CUST-8923,Low,Email,21.2,Yes,Closed,4,Account Management
+TKT-2026040949,2026-04-30 19:45:00,CUST-2478,High,Email,27.0,No,In Progress,1,Billing & Payment
+TKT-2026040950,2026-04-30 20:00:00,CUST-2264,Medium,Web Portal,20.2,No,Closed,1,Billing & Payment
